@@ -1,0 +1,1055 @@
+{
+  "title": "Master Government Exam Syllabus Database - Haryana, Central Government & Delhi",
+  "version": "2026",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "scope": {
+    "Haryana": "Major HPSC, HSSC, teaching, police and state recruitment examinations",
+    "Central": "Major UPSC, SSC, Railways, Banking/Financial-sector and central recruitment examinations",
+    "Delhi": "Major DSSSB, Delhi Police, DDA and Delhi government recruitment examinations"
+  },
+  "note": "This is a master syllabus database for major recurring examinations. Exact post-wise syllabus, eligibility, paper pattern and weightage can change by recruitment notification; always verify the latest official notification.",
+  "official_sources": {
+    "HSSC": "https://www.hssc.gov.in/examsyllabus",
+    "HPSC": "https://hpsc.gov.in/",
+    "UPSC": "https://www.upsc.gov.in/",
+    "SSC": "https://ssc.gov.in/for-candidates/syllabus",
+    "DSSSB": "https://dsssb.delhi.gov.in/",
+    "Delhi Police": "https://delhipolice.gov.in/",
+    "DDA": "https://dda.gov.in/"
+  },
+  "exam_categories": {
+    "Haryana": [
+      {
+        "exam": "Haryana Civil Services (HCS) & Allied Services",
+        "conducting_body": "HPSC",
+        "stages": [
+          "Preliminary Examination",
+          "Main Examination",
+          "Personality Test/Interview"
+        ],
+        "subjects": {
+          "Prelims - General Studies": [
+            "General Science",
+            "Current Events of National and International Importance",
+            "History of India and Indian National Movement",
+            "Indian and World Geography",
+            "Indian Culture",
+            "Indian Polity",
+            "Indian Economy",
+            "General Mental Ability",
+            "Haryana: economy, people, society, culture, language, history and geography"
+          ],
+          "Prelims - CSAT": [
+            "Comprehension",
+            "Interpersonal and communication skills",
+            "Logical reasoning and analytical ability",
+            "Decision making and problem solving",
+            "General mental ability",
+            "Basic numeracy",
+            "Data interpretation"
+          ],
+          "Mains": [
+            "English",
+            "Hindi",
+            "Essay",
+            "General Studies-I",
+            "General Studies-II",
+            "General Studies-III",
+            "General Studies-IV",
+            "Optional subject(s), as prescribed by notification"
+          ]
+        }
+      },
+      {
+        "exam": "HSSC Common Eligibility Test (CET) - Group C",
+        "conducting_body": "HSSC",
+        "stages": [
+          "CET",
+          "Post-specific written/skill/physical test where applicable"
+        ],
+        "subjects": {
+          "CET": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Ability",
+            "English",
+            "Hindi",
+            "Computer Knowledge",
+            "Haryana History",
+            "Haryana Current Affairs",
+            "Haryana Literature",
+            "Haryana Geography",
+            "Haryana Environment",
+            "Haryana Culture"
+          ]
+        }
+      },
+      {
+        "exam": "HSSC Common Eligibility Test (CET) - Group D",
+        "conducting_body": "HSSC",
+        "stages": [
+          "CET"
+        ],
+        "subjects": {
+          "CET": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Ability",
+            "Hindi",
+            "English",
+            "Haryana History",
+            "Haryana Current Affairs",
+            "Haryana Literature",
+            "Haryana Geography",
+            "Haryana Environment",
+            "Haryana Culture"
+          ]
+        }
+      },
+      {
+        "exam": "HSSC Group C - Common Graduate Level / Post-specific",
+        "conducting_body": "HSSC",
+        "stages": [
+          "Written Examination",
+          "Skill/Physical Test where applicable"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Mathematics",
+            "Science",
+            "English",
+            "Hindi",
+            "Computer",
+            "Haryana GK"
+          ],
+          "Post_specific": [
+            "Subject/domain syllabus according to advertised post"
+          ]
+        }
+      },
+      {
+        "exam": "HSSC Group C - Senior Secondary Level",
+        "conducting_body": "HSSC",
+        "stages": [
+          "Written Examination",
+          "Skill/Physical Test where applicable"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Mathematics",
+            "Science",
+            "English",
+            "Hindi",
+            "Computer",
+            "Haryana GK"
+          ],
+          "Post_specific": [
+            "Subject/domain syllabus according to advertised post"
+          ]
+        }
+      },
+      {
+        "exam": "HSSC Group D",
+        "conducting_body": "HSSC",
+        "stages": [
+          "CET / Written examination as prescribed"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Mathematics",
+            "General Science",
+            "Hindi",
+            "English",
+            "Haryana GK"
+          ]
+        }
+      },
+      {
+        "exam": "HTET - Level I",
+        "conducting_body": "Board of School Education Haryana",
+        "stages": [
+          "Written Examination"
+        ],
+        "subjects": {
+          "Child Development and Pedagogy": [
+            "Child development",
+            "Learning and pedagogy",
+            "Inclusive education"
+          ],
+          "Languages": [
+            "Hindi",
+            "English"
+          ],
+          "Mathematics": [
+            "Number system",
+            "Arithmetic",
+            "Geometry",
+            "Measurement",
+            "Data handling"
+          ],
+          "Environmental Studies": [
+            "Family",
+            "Food",
+            "Shelter",
+            "Water",
+            "Travel",
+            "Things we make and do",
+            "Environment"
+          ]
+        }
+      },
+      {
+        "exam": "HTET - Level II",
+        "conducting_body": "Board of School Education Haryana",
+        "stages": [
+          "Written Examination"
+        ],
+        "subjects": {
+          "Common": [
+            "Child Development and Pedagogy",
+            "Hindi",
+            "English"
+          ],
+          "Subject": [
+            "Mathematics & Science OR Social Studies OR relevant subject stream"
+          ]
+        }
+      },
+      {
+        "exam": "HTET - Level III",
+        "conducting_body": "Board of School Education Haryana",
+        "stages": [
+          "Written Examination"
+        ],
+        "subjects": {
+          "Common": [
+            "Child Development and Pedagogy",
+            "Hindi",
+            "English"
+          ],
+          "Subject": [
+            "Relevant postgraduate/PGT-level subject syllabus"
+          ]
+        }
+      },
+      {
+        "exam": "Haryana Police Constable",
+        "conducting_body": "HSSC",
+        "stages": [
+          "CET/eligibility as applicable",
+          "Knowledge Test",
+          "Physical Measurement/Screening as prescribed"
+        ],
+        "subjects": {
+          "Knowledge": [
+            "General Studies",
+            "General Science",
+            "Current Affairs",
+            "Reasoning",
+            "Numerical Ability",
+            "Agriculture",
+            "Animal Husbandry",
+            "Computer",
+            "Haryana GK",
+            "Haryana current affairs and culture"
+          ]
+        }
+      },
+      {
+        "exam": "Haryana Police Sub-Inspector",
+        "conducting_body": "HSSC/Haryana Police as notified",
+        "stages": [
+          "Written/Knowledge Test",
+          "Physical Screening Test",
+          "Document verification/other stages as notified"
+        ],
+        "subjects": {
+          "Written": [
+            "General Studies",
+            "Current Affairs",
+            "Reasoning",
+            "Numerical Ability",
+            "General Science",
+            "Computer",
+            "Haryana GK",
+            "Constitution and basic law/police-related awareness"
+          ]
+        }
+      },
+      {
+        "exam": "Haryana Teacher Recruitment - PRT/TGT/PGT",
+        "conducting_body": "HPSC/HSSC/BSEH/concerned recruiting body",
+        "stages": [
+          "Written Examination",
+          "Document verification/skill or interview where notified"
+        ],
+        "subjects": {
+          "Common": [
+            "Teaching aptitude",
+            "Child development and pedagogy",
+            "General Awareness",
+            "Current Affairs",
+            "Haryana GK",
+            "Language"
+          ],
+          "Subject": [
+            "Post-specific subject syllabus"
+          ]
+        }
+      }
+    ],
+    "Central": [
+      {
+        "exam": "UPSC Civil Services Examination",
+        "conducting_body": "UPSC",
+        "stages": [
+          "Preliminary Examination",
+          "Main Examination",
+          "Personality Test"
+        ],
+        "subjects": {
+          "Prelims Paper I": [
+            "Current events",
+            "History of India and Indian National Movement",
+            "Indian and World Geography",
+            "Indian Polity and Governance",
+            "Economic and Social Development",
+            "Environmental Ecology, Biodiversity and Climate Change",
+            "General Science"
+          ],
+          "Prelims Paper II - CSAT": [
+            "Comprehension",
+            "Interpersonal skills",
+            "Logical reasoning",
+            "Analytical ability",
+            "Decision making",
+            "Problem solving",
+            "General mental ability",
+            "Basic numeracy",
+            "Data interpretation"
+          ],
+          "Mains": [
+            "Essay",
+            "General Studies I",
+            "General Studies II",
+            "General Studies III",
+            "General Studies IV",
+            "Optional Subject Paper I",
+            "Optional Subject Paper II",
+            "Qualifying Indian Language",
+            "Qualifying English"
+          ]
+        }
+      },
+      {
+        "exam": "UPSC Indian Forest Service (IFoS)",
+        "conducting_body": "UPSC",
+        "stages": [
+          "Civil Services Preliminary Examination",
+          "IFoS Main Examination",
+          "Interview"
+        ],
+        "subjects": {
+          "Prelims": [
+            "General Studies Paper I",
+            "CSAT"
+          ],
+          "Mains": [
+            "General English",
+            "General Knowledge",
+            "Two optional subjects selected from the prescribed forestry/agriculture/science/engineering list"
+          ]
+        }
+      },
+      {
+        "exam": "UPSC CDS",
+        "conducting_body": "UPSC",
+        "stages": [
+          "Written Examination",
+          "SSB Interview",
+          "Medical Examination"
+        ],
+        "subjects": {
+          "IMA/INA/AFA": [
+            "English",
+            "General Knowledge",
+            "Elementary Mathematics"
+          ],
+          "OTA": [
+            "English",
+            "General Knowledge"
+          ]
+        }
+      },
+      {
+        "exam": "UPSC NDA & NA",
+        "conducting_body": "UPSC",
+        "stages": [
+          "Written Examination",
+          "SSB Test/Interview",
+          "Medical"
+        ],
+        "subjects": {
+          "Mathematics": [
+            "Algebra",
+            "Matrices and determinants",
+            "Trigonometry",
+            "Analytical geometry",
+            "Differential calculus",
+            "Integral calculus",
+            "Vector algebra",
+            "Statistics and probability"
+          ],
+          "GAT": [
+            "English",
+            "Physics",
+            "Chemistry",
+            "General Science",
+            "History",
+            "Geography",
+            "Current Events"
+          ]
+        }
+      },
+      {
+        "exam": "UPSC CAPF (AC)",
+        "conducting_body": "UPSC",
+        "stages": [
+          "Written Examination",
+          "Physical Standards/Physical Efficiency Test",
+          "Interview/Personality Test"
+        ],
+        "subjects": {
+          "Paper I": [
+            "General Ability and Intelligence",
+            "Reasoning",
+            "Quantitative aptitude",
+            "General science",
+            "Current affairs",
+            "Indian polity and economy",
+            "History",
+            "Geography"
+          ],
+          "Paper II": [
+            "Essay",
+            "Comprehension",
+            "Precis writing",
+            "Counter-arguments",
+            "Grammar",
+            "Language skills"
+          ]
+        }
+      },
+      {
+        "exam": "SSC CGL",
+        "conducting_body": "SSC",
+        "stages": [
+          "Tier-I",
+          "Tier-II"
+        ],
+        "subjects": {
+          "Tier-I": [
+            "General Intelligence and Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Comprehension"
+          ],
+          "Tier-II Paper-I": [
+            "Mathematical Abilities",
+            "Reasoning and General Intelligence",
+            "English Language and Comprehension",
+            "General Awareness",
+            "Computer Knowledge",
+            "Data Entry Speed Test"
+          ],
+          "Tier-II Paper-II": [
+            "Statistics for JSO where applicable"
+          ],
+          "Tier-II Paper-III": [
+            "Finance and Economics for relevant posts"
+          ]
+        }
+      },
+      {
+        "exam": "SSC CHSL",
+        "conducting_body": "SSC",
+        "stages": [
+          "Tier-I",
+          "Tier-II"
+        ],
+        "subjects": {
+          "Tier-I": [
+            "English Language",
+            "General Intelligence",
+            "Quantitative Aptitude",
+            "General Awareness"
+          ],
+          "Tier-II": [
+            "Mathematical Abilities",
+            "Reasoning and General Intelligence",
+            "English Language and Comprehension",
+            "General Awareness",
+            "Computer Knowledge",
+            "Skill/Typing Test"
+          ]
+        }
+      },
+      {
+        "exam": "SSC MTS",
+        "conducting_body": "SSC",
+        "stages": [
+          "Computer Based Examination",
+          "Physical Efficiency/Standards Test for Havaldar where applicable"
+        ],
+        "subjects": {
+          "CBE": [
+            "Numerical and Mathematical Ability",
+            "Reasoning Ability and Problem Solving",
+            "General Awareness",
+            "English Language and Comprehension"
+          ]
+        }
+      },
+      {
+        "exam": "SSC GD Constable",
+        "conducting_body": "SSC",
+        "stages": [
+          "Computer Based Examination",
+          "Physical Efficiency Test",
+          "Physical Standard Test",
+          "Medical Examination"
+        ],
+        "subjects": {
+          "CBE": [
+            "General Intelligence and Reasoning",
+            "General Knowledge and General Awareness",
+            "Elementary Mathematics",
+            "English/Hindi"
+          ]
+        }
+      },
+      {
+        "exam": "SSC CPO",
+        "conducting_body": "SSC",
+        "stages": [
+          "Paper-I",
+          "Physical Standard/Endurance Test",
+          "Paper-II",
+          "Medical"
+        ],
+        "subjects": {
+          "Paper-I": [
+            "General Intelligence and Reasoning",
+            "General Knowledge and General Awareness",
+            "Quantitative Aptitude",
+            "English Comprehension"
+          ],
+          "Paper-II": [
+            "English Language and Comprehension"
+          ]
+        }
+      },
+      {
+        "exam": "SSC Stenographer Grade C & D",
+        "conducting_body": "SSC",
+        "stages": [
+          "Computer Based Examination",
+          "Skill Test in Stenography"
+        ],
+        "subjects": {
+          "CBE": [
+            "General Intelligence and Reasoning",
+            "General Awareness",
+            "English Language and Comprehension"
+          ],
+          "Skill": [
+            "Stenography dictation and transcription"
+          ]
+        }
+      },
+      {
+        "exam": "SSC Selection Post",
+        "conducting_body": "SSC",
+        "stages": [
+          "Computer Based Examination"
+        ],
+        "subjects": {
+          "Matriculation level": [
+            "General Intelligence",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English"
+          ],
+          "Higher Secondary level": [
+            "General Intelligence",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English"
+          ],
+          "Graduation level": [
+            "General Intelligence",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English"
+          ]
+        }
+      },
+      {
+        "exam": "RRB NTPC",
+        "conducting_body": "Railway Recruitment Boards",
+        "stages": [
+          "CBT-1",
+          "CBT-2",
+          "Skill/Typing or Aptitude Test where applicable",
+          "Document Verification",
+          "Medical"
+        ],
+        "subjects": {
+          "CBT": [
+            "General Awareness",
+            "Mathematics",
+            "General Intelligence and Reasoning"
+          ],
+          "General Awareness": [
+            "Current affairs",
+            "Indian history",
+            "geography",
+            "polity",
+            "economy",
+            "general science",
+            "railways-related awareness",
+            "computer basics"
+          ]
+        }
+      },
+      {
+        "exam": "RRB Group D",
+        "conducting_body": "Railway Recruitment Boards",
+        "stages": [
+          "CBT",
+          "Physical Efficiency Test",
+          "Document Verification",
+          "Medical"
+        ],
+        "subjects": {
+          "CBT": [
+            "Mathematics",
+            "General Intelligence and Reasoning",
+            "General Science",
+            "General Awareness and Current Affairs"
+          ]
+        }
+      },
+      {
+        "exam": "RRB ALP",
+        "conducting_body": "Railway Recruitment Boards",
+        "stages": [
+          "CBT-1",
+          "CBT-2",
+          "Computer Based Aptitude Test for applicable posts",
+          "Document Verification",
+          "Medical"
+        ],
+        "subjects": {
+          "CBT-1": [
+            "Mathematics",
+            "Mental Ability",
+            "General Science",
+            "General Awareness"
+          ],
+          "CBT-2": [
+            "Mathematics",
+            "General Intelligence and Reasoning",
+            "Basic Science and Engineering",
+            "Trade syllabus"
+          ]
+        }
+      },
+      {
+        "exam": "IBPS PO",
+        "conducting_body": "IBPS",
+        "stages": [
+          "Prelims",
+          "Mains",
+          "Interview"
+        ],
+        "subjects": {
+          "Prelims": [
+            "English Language",
+            "Quantitative Aptitude",
+            "Reasoning Ability"
+          ],
+          "Mains": [
+            "Reasoning and Computer Aptitude",
+            "General/Economy/Banking Awareness",
+            "English Language",
+            "Data Analysis and Interpretation",
+            "Descriptive English"
+          ]
+        }
+      },
+      {
+        "exam": "IBPS Clerk",
+        "conducting_body": "IBPS",
+        "stages": [
+          "Prelims",
+          "Mains"
+        ],
+        "subjects": {
+          "Prelims": [
+            "English Language",
+            "Numerical Ability",
+            "Reasoning Ability"
+          ],
+          "Mains": [
+            "General/Financial Awareness",
+            "General English",
+            "Reasoning Ability",
+            "Computer Aptitude",
+            "Quantitative Aptitude"
+          ]
+        }
+      },
+      {
+        "exam": "SBI PO",
+        "conducting_body": "State Bank of India",
+        "stages": [
+          "Prelims",
+          "Mains",
+          "Psychometric/Group Exercise/Interview as notified"
+        ],
+        "subjects": {
+          "Prelims": [
+            "English Language",
+            "Quantitative Aptitude",
+            "Reasoning Ability"
+          ],
+          "Mains": [
+            "Reasoning and Computer Aptitude",
+            "Data Analysis and Interpretation",
+            "General/Economy/Banking Awareness",
+            "English Language",
+            "Descriptive English"
+          ]
+        }
+      },
+      {
+        "exam": "SBI Clerk",
+        "conducting_body": "State Bank of India",
+        "stages": [
+          "Prelims",
+          "Mains"
+        ],
+        "subjects": {
+          "Prelims": [
+            "English Language",
+            "Numerical Ability",
+            "Reasoning Ability"
+          ],
+          "Mains": [
+            "General/Financial Awareness",
+            "General English",
+            "Quantitative Aptitude",
+            "Reasoning Ability",
+            "Computer Aptitude"
+          ]
+        }
+      },
+      {
+        "exam": "RBI Grade B",
+        "conducting_body": "Reserve Bank of India",
+        "stages": [
+          "Phase I",
+          "Phase II",
+          "Interview"
+        ],
+        "subjects": {
+          "Phase I": [
+            "General Awareness",
+            "English Language",
+            "Quantitative Aptitude",
+            "Reasoning"
+          ],
+          "Phase II": [
+            "Economic and Social Issues",
+            "Finance and Management",
+            "English - Writing Skills"
+          ]
+        }
+      },
+      {
+        "exam": "NABARD Grade A",
+        "conducting_body": "NABARD",
+        "stages": [
+          "Prelims",
+          "Mains",
+          "Interview"
+        ],
+        "subjects": {
+          "Prelims": [
+            "English",
+            "Reasoning",
+            "Quantitative Aptitude",
+            "Computer Knowledge",
+            "Decision Making",
+            "Economic and Social Issues",
+            "Agriculture and Rural Development",
+            "General Awareness"
+          ],
+          "Mains": [
+            "Descriptive English",
+            "Economic and Social Issues/ARD",
+            "Specialist stream paper as applicable"
+          ]
+        }
+      }
+    ],
+    "Delhi": [
+      {
+        "exam": "DSSSB General Recruitment",
+        "conducting_body": "Delhi Subordinate Services Selection Board",
+        "stages": [
+          "One Tier / Two Tier written examination",
+          "Skill/Typing/Physical Test where applicable"
+        ],
+        "subjects": {
+          "General Tier": [
+            "General Awareness",
+            "General Intelligence and Reasoning",
+            "Arithmetical and Numerical Ability",
+            "Hindi Language and Comprehension",
+            "English Language and Comprehension"
+          ],
+          "Technical/Professional": [
+            "Subject-specific syllabus according to post"
+          ]
+        }
+      },
+      {
+        "exam": "DSSSB Teaching - PRT/TGT/PGT",
+        "conducting_body": "DSSSB",
+        "stages": [
+          "Written Examination",
+          "Document Verification"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Numerical Ability",
+            "Hindi",
+            "English"
+          ],
+          "Teaching": [
+            "Teaching methodology",
+            "Child development and pedagogy"
+          ],
+          "Subject": [
+            "Relevant subject syllabus"
+          ]
+        }
+      },
+      {
+        "exam": "DSSSB Nursing/Paramedical/Technical Posts",
+        "conducting_body": "DSSSB",
+        "stages": [
+          "Written Examination",
+          "Document Verification/Skill Test where applicable"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Numerical Ability",
+            "Hindi",
+            "English"
+          ],
+          "Professional": [
+            "Post-specific technical/professional syllabus"
+          ]
+        }
+      },
+      {
+        "exam": "Delhi Police Constable (Executive)",
+        "conducting_body": "SSC / Delhi Police",
+        "stages": [
+          "Computer Based Examination",
+          "Physical Endurance & Measurement Test",
+          "Medical",
+          "Document Verification"
+        ],
+        "subjects": {
+          "CBE": [
+            "General Knowledge/Current Affairs",
+            "Reasoning",
+            "Numerical Ability",
+            "Computer Fundamentals"
+          ]
+        }
+      },
+      {
+        "exam": "Delhi Police Head Constable (Ministerial)",
+        "conducting_body": "SSC / Delhi Police",
+        "stages": [
+          "Computer Based Examination",
+          "Physical Endurance & Measurement Test",
+          "Typing Test",
+          "Computer Formatting Test"
+        ],
+        "subjects": {
+          "CBE": [
+            "General Awareness",
+            "Quantitative Aptitude",
+            "General Intelligence",
+            "English Language"
+          ],
+          "Skill": [
+            "Typing",
+            "Computer proficiency"
+          ]
+        }
+      },
+      {
+        "exam": "Delhi Police Sub-Inspector",
+        "conducting_body": "SSC",
+        "stages": [
+          "Paper-I",
+          "Physical Standard/Endurance Test",
+          "Paper-II",
+          "Medical"
+        ],
+        "subjects": {
+          "Paper-I": [
+            "General Intelligence and Reasoning",
+            "General Knowledge and General Awareness",
+            "Quantitative Aptitude",
+            "English Comprehension"
+          ],
+          "Paper-II": [
+            "English Language and Comprehension"
+          ]
+        }
+      },
+      {
+        "exam": "DDA Recruitment",
+        "conducting_body": "Delhi Development Authority",
+        "stages": [
+          "Computer Based Examination",
+          "Skill/Interview/Document Verification as applicable"
+        ],
+        "subjects": {
+          "Common": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Aptitude",
+            "English/Hindi"
+          ],
+          "Professional": [
+            "Post-specific technical syllabus"
+          ]
+        }
+      }
+    ]
+  },
+  "common_subject_topic_bank": {
+    "General Awareness": [
+      "National and international current affairs",
+      "Indian history",
+      "Indian geography",
+      "Indian polity",
+      "Indian economy",
+      "General science",
+      "Environment and ecology",
+      "Art and culture",
+      "Sports",
+      "Awards and honours",
+      "Important days",
+      "Government schemes"
+    ],
+    "Reasoning": [
+      "Analogy",
+      "Classification",
+      "Series",
+      "Coding-decoding",
+      "Blood relations",
+      "Direction sense",
+      "Ranking",
+      "Syllogism",
+      "Venn diagrams",
+      "Statement and conclusion",
+      "Puzzle",
+      "Seating arrangement",
+      "Non-verbal reasoning"
+    ],
+    "Mathematics": [
+      "Number system",
+      "Simplification",
+      "Percentage",
+      "Ratio and proportion",
+      "Average",
+      "Profit and loss",
+      "Simple and compound interest",
+      "Time and work",
+      "Time speed distance",
+      "Algebra",
+      "Geometry",
+      "Mensuration",
+      "Trigonometry",
+      "Data interpretation",
+      "Probability and statistics"
+    ],
+    "English": [
+      "Grammar",
+      "Vocabulary",
+      "Synonyms and antonyms",
+      "One-word substitution",
+      "Idioms and phrases",
+      "Error detection",
+      "Sentence improvement",
+      "Fill in the blanks",
+      "Cloze test",
+      "Reading comprehension",
+      "Para jumbles",
+      "Precis/writing where applicable"
+    ],
+    "Hindi": [
+      "व्याकरण",
+      "संधि",
+      "समास",
+      "उपसर्ग-प्रत्यय",
+      "पर्यायवाची",
+      "विलोम शब्द",
+      "मुहावरे और लोकोक्तियाँ",
+      "वाक्य शुद्धि",
+      "अशुद्धि सुधार",
+      "गद्यांश",
+      "शब्दावली"
+    ],
+    "Computer": [
+      "Computer fundamentals",
+      "Hardware and software",
+      "Operating systems",
+      "MS Office",
+      "Internet",
+      "Networking",
+      "Cyber security basics",
+      "Email",
+      "Digital services",
+      "Data basics"
+    ]
+  },
+  "metadata": {
+    "created": "2026-09-13",
+    "recommended_use": "Use this JSON as a syllabus master database for an exam-preparation website/app. Add notification-specific syllabus objects whenever a new recruitment notice is released.",
+    "source_note": "HSSC publishes post/group-wise syllabi and CET syllabus on its official site; UPSC and SSC publish their examination/syllabus information on their official sites."
+  }
+}
