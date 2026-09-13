@@ -1,0 +1,315 @@
+{
+  "database": "Haryana_Central_Delhi_Exam_Question_Bank_100000",
+  "version": "2026-09",
+  "total_questions": 100000,
+  "parts": [
+    {
+      "part": 1,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_01.json",
+      "questions": 10000
+    },
+    {
+      "part": 2,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_02.json",
+      "questions": 10000
+    },
+    {
+      "part": 3,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_03.json",
+      "questions": 10000
+    },
+    {
+      "part": 4,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_04.json",
+      "questions": 10000
+    },
+    {
+      "part": 5,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_05.json",
+      "questions": 10000
+    },
+    {
+      "part": 6,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_06.json",
+      "questions": 10000
+    },
+    {
+      "part": 7,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_07.json",
+      "questions": 10000
+    },
+    {
+      "part": 8,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_08.json",
+      "questions": 10000
+    },
+    {
+      "part": 9,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_09.json",
+      "questions": 10000
+    },
+    {
+      "part": 10,
+      "filename": "Haryana_Central_Delhi_Exam_Questions_10000_Part_10.json",
+      "questions": 10000
+    }
+  ],
+  "coverage": {
+    "Haryana": [
+      [
+        "HSSC CET Group C",
+        [
+          "Haryana GK",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Hindi",
+          "Computer"
+        ]
+      ],
+      [
+        "HSSC CET Group D",
+        [
+          "Haryana GK",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Hindi"
+        ]
+      ],
+      [
+        "Haryana Civil Services (HCS)",
+        [
+          "Indian Polity",
+          "Indian History",
+          "Geography",
+          "Economy",
+          "General Science",
+          "English",
+          "Hindi",
+          "Haryana GK"
+        ]
+      ],
+      [
+        "Haryana Police Constable",
+        [
+          "Haryana GK",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "Computer",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "HTET",
+        [
+          "Haryana GK",
+          "English",
+          "Hindi",
+          "General Science",
+          "Mathematics",
+          "Reasoning"
+        ]
+      ]
+    ],
+    "Central": [
+      [
+        "UPSC Civil Services",
+        [
+          "Indian Polity",
+          "Indian History",
+          "Geography",
+          "Economy",
+          "General Science",
+          "Current Affairs",
+          "English"
+        ]
+      ],
+      [
+        "SSC CGL",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Indian Polity",
+          "Indian History",
+          "Computer"
+        ]
+      ],
+      [
+        "SSC CHSL",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Indian Polity",
+          "Indian History",
+          "Computer"
+        ]
+      ],
+      [
+        "SSC MTS",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Indian Polity",
+          "Indian History"
+        ]
+      ],
+      [
+        "SSC GD Constable",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Indian Polity",
+          "Indian History",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "RRB NTPC",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "Indian History",
+          "Geography",
+          "Indian Polity",
+          "Computer"
+        ]
+      ],
+      [
+        "RRB Group D",
+        [
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "Indian History",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "IBPS PO",
+        [
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Computer",
+          "Economy",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "SBI PO",
+        [
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Computer",
+          "Economy",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "RBI Grade B",
+        [
+          "Economy",
+          "Indian Polity",
+          "English",
+          "Reasoning",
+          "Mathematics",
+          "Current Affairs"
+        ]
+      ]
+    ],
+    "Delhi": [
+      [
+        "DSSSB General Recruitment",
+        [
+          "Indian Polity",
+          "Indian History",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Hindi",
+          "Computer",
+          "Delhi GK"
+        ]
+      ],
+      [
+        "DSSSB PRT/TGT/PGT",
+        [
+          "Indian Polity",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Hindi",
+          "Delhi GK"
+        ]
+      ],
+      [
+        "Delhi Police Constable",
+        [
+          "Delhi GK",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "Computer",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "Delhi Police Head Constable",
+        [
+          "Delhi GK",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Computer"
+        ]
+      ],
+      [
+        "Delhi Police Sub Inspector",
+        [
+          "Indian Polity",
+          "Indian History",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Current Affairs"
+        ]
+      ],
+      [
+        "DDA Recruitment",
+        [
+          "Delhi GK",
+          "Indian Polity",
+          "General Science",
+          "Reasoning",
+          "Mathematics",
+          "English",
+          "Computer"
+        ]
+      ]
+    ]
+  },
+  "important_note": "This is a freshly generated 100,000-record practice bank. It is not a transcription of official question papers. Current-affairs and recruitment-specific details should be verified against the latest official sources.",
+  "official_sources_checked": [
+    "https://www.hssc.gov.in/examsyllabus",
+    "https://www.upsc.gov.in/examinations/previous-question-papers",
+    "https://dsssb.delhi.gov.in/dsssb/syllabus-combined-examination"
+  ]
+}
