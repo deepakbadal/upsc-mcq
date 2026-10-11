@@ -1,0 +1,1214 @@
+{
+  "title": "100-MCQ Exam Paper — Questions, Options, Answers and Explanations",
+  "version": "1.0",
+  "language": "en",
+  "source": "User-uploaded 15-page scanned exam paper; question wording transcribed from scan and prior solution discussion.",
+  "notes": [
+    "Some scanned questions or options were not legible enough to transcribe reliably; those items are explicitly marked with correct_answer: null.",
+    "Current-affairs items marked null require verification against authoritative sources before use in a scored exam.",
+    "For exam UI: show an answer key only when correct_answer is not null; otherwise label the question 'Needs verification'.",
+    "Option keys are A, B, C, D. correct_answer is the matching key or null."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Environmental disinformation disseminated by an organization to present an environmentally responsible public image is known as:",
+      "options": {
+        "A": "Greenwashing",
+        "B": "Imaging",
+        "C": "Ecocriticism",
+        "D": "Bootlegging"
+      },
+      "correct_answer": "A",
+      "explanation": "Greenwashing is misleading or exaggerated communication intended to make an organization or product appear more environmentally responsible than it really is."
+    },
+    {
+      "id": 2,
+      "question": "The energy processes in photosynthesis depend on:",
+      "options": {
+        "A": "Universal constant",
+        "B": "Velocity of light",
+        "C": "Photons of solar radiation",
+        "D": "Temperature"
+      },
+      "correct_answer": "C",
+      "explanation": "Photosynthetic pigments absorb photons. Their energy drives the light-dependent reactions, producing ATP and NADPH that support carbon fixation."
+    },
+    {
+      "id": 3,
+      "question": "The kinetic energy of a rotating flywheel is:",
+      "options": {
+        "A": "Product of moment of inertia and half the angular velocity",
+        "B": "One-fourth of the flywheel's angular velocity",
+        "C": "Half the product of the moment of inertia and the square of its angular velocity",
+        "D": "Product of mass and concentrated radius"
+      },
+      "correct_answer": "C",
+      "explanation": "Rotational kinetic energy is KE = ½Iω², where I is moment of inertia and ω is angular velocity."
+    },
+    {
+      "id": 4,
+      "question": "Which statement is NOT correct about the US Soil Taxonomy?",
+      "options": {
+        "A": "Histosols — organic soils, found in bogs and swamps",
+        "B": "Inceptisols — old soils, often found in dry conditions",
+        "C": "Entisols — little or no horizon development",
+        "D": "Vertisols — clay soils that swell when wet and crack when dry"
+      },
+      "correct_answer": "B",
+      "explanation": "Inceptisols are weakly developed soils; describing them simply as old soils often found in dry conditions is inaccurate. The other descriptions broadly match the named soil orders."
+    },
+    {
+      "id": 5,
+      "question": "Which is NOT a correct pair of an environmental institution in India and its location?",
+      "options": {
+        "A": "Wildlife Institute of India — Dehradun",
+        "B": "Kalpavriksh — Belgaum",
+        "C": "Salim Ali Centre for Ornithology and Natural History — Coimbatore",
+        "D": "World Wide Fund for Nature — New Delhi"
+      },
+      "correct_answer": "B",
+      "explanation": "Kalpavriksh is associated with Pune, Maharashtra, rather than Belgaum. WII is in Dehradun, SACON is near Coimbatore, and WWF-India is headquartered in New Delhi."
+    },
+    {
+      "id": 6,
+      "question": "Ecology primarily deals with the relationship between:",
+      "options": {
+        "A": "Plants and animals only",
+        "B": "Soil and water only",
+        "C": "Living organisms and their environment",
+        "D": "Atmosphere and deserts only"
+      },
+      "correct_answer": "C",
+      "explanation": "Ecology studies interactions among organisms and between organisms and abiotic factors such as water, soil, temperature and sunlight."
+    },
+    {
+      "id": 7,
+      "question": "Which is NOT one of the traditional four characteristics used to identify hazardous waste in the US EPA framework?",
+      "options": {
+        "A": "Lethality",
+        "B": "Flammability",
+        "C": "Corrosivity",
+        "D": "Reactivity"
+      },
+      "correct_answer": "A",
+      "explanation": "The four characteristics are ignitability, corrosivity, reactivity and toxicity. Flammability is related to ignitability; lethality is not one of the four named categories."
+    },
+    {
+      "id": 8,
+      "question": "In acid rain, which acid is commonly the major contributor to acidity?",
+      "options": {
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Sulfuric acid (H₂SO₄)",
+        "C": "Ammonia (NH₃)",
+        "D": "Nitric acid (HNO₃)"
+      },
+      "correct_answer": "B",
+      "explanation": "Sulfur dioxide can be oxidized in the atmosphere to sulfuric acid. Nitrogen oxides form nitric acid too, and the relative contributions vary by region. The question's stated percentage is not universal."
+    },
+    {
+      "id": 9,
+      "question": "Which action best represents modern operations management?",
+      "options": {
+        "A": "Reducing employee training expenditure",
+        "B": "Deferring machine replacement",
+        "C": "Eliminating non-value-adding activities",
+        "D": "Reducing vendor development activities"
+      },
+      "correct_answer": "C",
+      "explanation": "Lean management focuses on removing waste and activities that do not add value while maintaining quality and customer requirements."
+    },
+    {
+      "id": 10,
+      "question": "In the HMMS model, which cost-function form is used in its classical formulation?",
+      "options": {
+        "A": "Linear",
+        "B": "Quadratic",
+        "C": "Exponential",
+        "D": "Logarithmic"
+      },
+      "correct_answer": "B",
+      "explanation": "The Holt–Modigliani–Muth–Simon production-planning model uses a quadratic cost structure to derive linear decision rules."
+    },
+    {
+      "id": 11,
+      "question": "Which is NOT a standard approach to a make-or-buy decision?",
+      "options": {
+        "A": "Sales revenue analysis",
+        "B": "Simple cost analysis",
+        "C": "Economic analysis",
+        "D": "Break-even analysis"
+      },
+      "correct_answer": "A",
+      "explanation": "Make-or-buy decisions compare relevant internal production costs with external purchase costs. Cost, economic and break-even analyses directly support that comparison."
+    },
+    {
+      "id": 12,
+      "question": "A cumulative delivery schedule graph is associated with:",
+      "options": {
+        "A": "Line of Balance",
+        "B": "Assembly Line Balancing",
+        "C": "PERT",
+        "D": "Six Sigma"
+      },
+      "correct_answer": "A",
+      "explanation": "Line of Balance can track planned and actual cumulative progress or deliveries, especially for repetitive production or projects."
+    },
+    {
+      "id": 13,
+      "question": "Annual demand is 600 units. What is the economic order quantity if ordering cost is S per order and annual holding cost is H per unit?",
+      "options": {
+        "A": "10 units",
+        "B": "30 units",
+        "C": "14 units",
+        "D": "20 units"
+      },
+      "correct_answer": null,
+      "explanation": "The scan's cost values are unclear, so a unique option cannot be justified. Use EOQ = √(2DS/H), with D = 600, S = ordering cost per order, and H = annual holding cost per unit. Confirm the original values before setting an answer."
+    },
+    {
+      "id": 14,
+      "question": "What is the relationship between aggregate planning and Master Production Scheduling (MPS)?",
+      "options": {
+        "A": "MPS is developed before aggregate planning",
+        "B": "Aggregate planning precedes MPS",
+        "C": "Both are always developed simultaneously",
+        "D": "There is no relationship"
+      },
+      "correct_answer": "B",
+      "explanation": "Aggregate planning sets medium-term production, workforce and inventory targets. The MPS then specifies the quantities and timing of individual products."
+    },
+    {
+      "id": 15,
+      "question": "The objective of CRAFT in facility layout is to:",
+      "options": {
+        "A": "Maximize material-handling costs",
+        "B": "Minimize material-handling costs",
+        "C": "Maximize machine utilization",
+        "D": "Minimize labour costs"
+      },
+      "correct_answer": "B",
+      "explanation": "CRAFT evaluates alternative department layouts to reduce material-handling cost, often modeled using flow, distance and handling cost."
+    },
+    {
+      "id": 16,
+      "question": "Which type of decision is associated with product development through value analysis?",
+      "options": {
+        "A": "Strategic decision",
+        "B": "Tactical decision",
+        "C": "Operational decision",
+        "D": "Policy decision"
+      },
+      "correct_answer": "B",
+      "explanation": "The exam's likely intended classification is tactical, but decision classification can depend on the textbook framework used."
+    },
+    {
+      "id": 17,
+      "question": "The atomic packing factor (APF) of a body-centred cubic (BCC) structure is:",
+      "options": {
+        "A": "0.68",
+        "B": "0.74",
+        "C": "0.96",
+        "D": "1"
+      },
+      "correct_answer": "A",
+      "explanation": "A BCC unit cell contains 2 atoms and has a body diagonal of 4r = √3a. APF = 2(4πr³/3)/a³ = π√3/8 ≈ 0.68."
+    },
+    {
+      "id": 18,
+      "question": "Which casting method uses a ceramic slurry in a porous mould that absorbs water and forms a layer?",
+      "options": {
+        "A": "Die casting",
+        "B": "Centrifugal casting",
+        "C": "Investment casting",
+        "D": "Slip casting"
+      },
+      "correct_answer": "D",
+      "explanation": "In slip casting, a porous mould absorbs liquid from a ceramic suspension, leaving a layer of ceramic material against the mould."
+    },
+    {
+      "id": 19,
+      "question": "Which listed material has the highest specific modulus?",
+      "options": {
+        "A": "Steel",
+        "B": "Silica",
+        "C": "Alumina",
+        "D": "Cement"
+      },
+      "correct_answer": null,
+      "explanation": "Specific modulus is Young's modulus divided by density. 'Silica' can refer to different material forms, so the exact material data assumed by the exam are needed to verify the ranking."
+    },
+    {
+      "id": 20,
+      "question": "Which phenomenon strengthens metals during cold working?",
+      "options": {
+        "A": "Recrystallization",
+        "B": "Strain hardening",
+        "C": "Thermal expansion",
+        "D": "Solid-solution strengthening"
+      },
+      "correct_answer": "B",
+      "explanation": "Cold deformation increases dislocation density. Dislocation interactions impede further motion, increasing strength and hardness while generally reducing ductility."
+    },
+    {
+      "id": 21,
+      "question": "Which material has the highest modulus of rupture among alumina, borosilicate glass, steatite and mullite?",
+      "options": {
+        "A": "Alumina",
+        "B": "Borosilicate glass",
+        "C": "Steatite",
+        "D": "Mullite"
+      },
+      "correct_answer": null,
+      "explanation": "Modulus of rupture depends on material grade, porosity, surface flaws and test method. The scan alone does not establish the property table intended by the exam."
+    },
+    {
+      "id": 22,
+      "question": "Which transformation occurs when suitable steel is rapidly quenched from the austenitic condition?",
+      "options": {
+        "A": "Pearlitic transformation",
+        "B": "Bainitic transformation",
+        "C": "Martensitic transformation",
+        "D": "Spheroidite transformation"
+      },
+      "correct_answer": "C",
+      "explanation": "Rapid quenching can cause a diffusionless transformation of austenite into hard martensite in suitable steels."
+    },
+    {
+      "id": 23,
+      "question": "Which type of bonding is generally associated with a large difference in electronegativity?",
+      "options": {
+        "A": "Metallic bonding",
+        "B": "Covalent bonding",
+        "C": "Ionic bonding",
+        "D": "Secondary bonding"
+      },
+      "correct_answer": "C",
+      "explanation": "A large electronegativity difference favours electron transfer and ionic character, although real bonding can exist on a continuum."
+    },
+    {
+      "id": 24,
+      "question": "Calculate the mass percentage of copper in Cu₃Si. Atomic masses: Cu = 63.54 and Si = 28.09.",
+      "options": {
+        "A": "8–12%",
+        "B": "30–38%",
+        "C": "69–74%",
+        "D": "91–98%"
+      },
+      "correct_answer": null,
+      "explanation": "Molar mass of Cu₃Si = 3(63.54) + 28.09 = 218.71. Copper percentage = 190.62/218.71 × 100 ≈ 87.15%, which matches none of the listed options. The question or options may contain a typo."
+    },
+    {
+      "id": 25,
+      "question": "Traditionally, the BIOS is stored in:",
+      "options": {
+        "A": "RAM",
+        "B": "Cache memory",
+        "C": "ROM",
+        "D": "Hard disk"
+      },
+      "correct_answer": "C",
+      "explanation": "Traditional computer-fundamentals questions associate BIOS with ROM. Modern firmware is commonly stored in rewritable non-volatile flash memory."
+    },
+    {
+      "id": 26,
+      "question": "Wi-Fi products are based on which IEEE standards family?",
+      "options": {
+        "A": "IEEE 802.3",
+        "B": "IEEE 802.11",
+        "C": "IEEE 802.15",
+        "D": "IEEE 802.16"
+      },
+      "correct_answer": "B",
+      "explanation": "IEEE 802.11 defines wireless local-area networking standards used by Wi-Fi."
+    },
+    {
+      "id": 27,
+      "question": "Searching for unsecured Wi-Fi networks while driving around is called:",
+      "options": {
+        "A": "Phishing",
+        "B": "Packet switching",
+        "C": "Spoofing",
+        "D": "War driving"
+      },
+      "correct_answer": "D",
+      "explanation": "War driving is the practice of travelling through an area to discover and map wireless networks."
+    },
+    {
+      "id": 28,
+      "question": "Increasing the number of pixels in a digital image primarily improves its:",
+      "options": {
+        "A": "Brightness",
+        "B": "Resolution",
+        "C": "Contrast",
+        "D": "Refresh rate"
+      },
+      "correct_answer": "B",
+      "explanation": "More pixels can represent finer image detail, assuming comparable image quality and viewing conditions."
+    },
+    {
+      "id": 29,
+      "question": "Packet-switching networks share network resources on a:",
+      "options": {
+        "A": "Dedicated basis",
+        "B": "Fixed allocation basis",
+        "C": "Demand basis",
+        "D": "Permanent basis"
+      },
+      "correct_answer": "C",
+      "explanation": "Packet-switched networks dynamically share transmission resources among users rather than reserving a dedicated path for every communication."
+    },
+    {
+      "id": 30,
+      "question": "The Fourier spectrum of a real-valued signal exhibits:",
+      "options": {
+        "A": "Conjugate symmetry",
+        "B": "Conjugate antisymmetry",
+        "C": "Time symmetry",
+        "D": "Linear symmetry"
+      },
+      "correct_answer": "A",
+      "explanation": "For a real-valued signal, X(−f) = X*(f), so the Fourier transform has conjugate symmetry."
+    },
+    {
+      "id": 31,
+      "question": "A geostationary satellite is approximately how far above the equator?",
+      "options": {
+        "A": "2,230 miles",
+        "B": "10,000 miles",
+        "C": "22,300 miles",
+        "D": "42,300 miles"
+      },
+      "correct_answer": "C",
+      "explanation": "A geostationary orbit is about 35,786 km (about 22,236 miles) above Earth's surface. About 42,164 km is the orbital radius from Earth's centre."
+    },
+    {
+      "id": 32,
+      "question": "A typical Ku-band satellite link uses approximately which uplink and downlink frequencies?",
+      "options": {
+        "A": "6 GHz uplink, 4 GHz downlink",
+        "B": "8 GHz uplink, 6 GHz downlink",
+        "C": "14 GHz uplink, 12 GHz downlink",
+        "D": "30 GHz uplink, 20 GHz downlink"
+      },
+      "correct_answer": "C",
+      "explanation": "A common Ku-band arrangement uses an uplink near 14 GHz and a downlink near 12 GHz; exact allocations vary by service and region."
+    },
+    {
+      "id": 33,
+      "question": "Which is NOT a core value in the framework implied by the question?",
+      "options": {
+        "A": "Right conduct",
+        "B": "Truth",
+        "C": "Non-violence",
+        "D": "Simplicity"
+      },
+      "correct_answer": null,
+      "explanation": "The question does not identify the framework. Truth, right conduct, non-violence and simplicity can all be recognized as values in different traditions, so the intended answer cannot be established confidently."
+    },
+    {
+      "id": 34,
+      "question": "Which approach helps manufacturers maintain competitiveness while ensuring consistent quality?",
+      "options": {
+        "A": "Experimentation",
+        "B": "Balanced outlook on law",
+        "C": "Competition",
+        "D": "Industrial standardisation"
+      },
+      "correct_answer": "D",
+      "explanation": "Industrial standardisation establishes common specifications and processes, supporting consistency, compatibility and efficient production."
+    },
+    {
+      "id": 35,
+      "question": "Which strategy can help reduce the environmental impact of engineering practice?",
+      "options": {
+        "A": "Standardisation",
+        "B": "Experimentation",
+        "C": "Balanced outlook on law",
+        "D": "Competition"
+      },
+      "correct_answer": null,
+      "explanation": "Standardisation is plausible because environmental standards can control emissions and waste, but the question's wording does not establish a unique answer; regulation and experimentation can also help."
+    },
+    {
+      "id": 36,
+      "question": "Which testing approach deliberately tests a component until failure and may be costly but realistic?",
+      "options": {
+        "A": "Prototype testing",
+        "B": "Destructive testing",
+        "C": "Simulation testing",
+        "D": "Safety-system component testing"
+      },
+      "correct_answer": "B",
+      "explanation": "Destructive testing applies loads or conditions that damage or break a specimen to measure properties such as strength, impact resistance or burst pressure."
+    },
+    {
+      "id": 37,
+      "question": "Which method systematically studies potential failure modes, their effects and their causes?",
+      "options": {
+        "A": "Failure Mode and Effects Analysis",
+        "B": "Scenario Analysis",
+        "C": "Fault-tree Analysis",
+        "D": "Event-tree Analysis"
+      },
+      "correct_answer": "A",
+      "explanation": "FMEA identifies possible failure modes, effects and causes, then prioritizes actions to reduce risk."
+    },
+    {
+      "id": 38,
+      "question": "Which method can combine hardware failures and human errors in a logical model of how a system failure occurs?",
+      "options": {
+        "A": "Failure Mode and Effects Analysis",
+        "B": "Scenario Analysis",
+        "C": "Fault-tree Analysis",
+        "D": "Event-tree Analysis"
+      },
+      "correct_answer": "C",
+      "explanation": "Fault-tree analysis works backward from an undesirable top event and combines contributing failures using logic gates such as AND and OR."
+    },
+    {
+      "id": 39,
+      "question": "The idea of Earth Day was first suggested by:",
+      "options": {
+        "A": "John Muir",
+        "B": "Edward Abbey",
+        "C": "Aldo Leopold",
+        "D": "Gaylord Nelson"
+      },
+      "correct_answer": "D",
+      "explanation": "US Senator Gaylord Nelson was the leading organizer behind the first Earth Day, held on 22 April 1970."
+    },
+    {
+      "id": 40,
+      "question": "According to the Brundtland Report, which is NOT consistent with sustainable development?",
+      "options": {
+        "A": "Fair distribution of resources to sustain economic development",
+        "B": "More democratic political systems",
+        "C": "Increased resource use without considering ecological limits",
+        "D": "Population levels compatible with ecological means"
+      },
+      "correct_answer": "C",
+      "explanation": "Sustainable development aims to meet present needs while preserving future generations' ability to meet theirs, taking environmental limits into account."
+    },
+    {
+      "id": 41,
+      "question": "Evaluate the Laplace-transform expression shown in the original paper.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The mathematical expression is not legible enough in the scan to transcribe reliably. Please verify the original formula before using this question in a scored exam."
+    },
+    {
+      "id": 42,
+      "question": "Solve the second-order differential equation with the initial conditions shown in the original paper.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The equation and initial conditions are not clear enough to reproduce without guessing. A correct solution requires the exact coefficients, signs and initial values."
+    },
+    {
+      "id": 43,
+      "question": "Find the Fourier series expansion of the piecewise function shown in the original paper.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The piecewise definition and interval are unclear in the scan. For a function on (−π, π), use a₀, aₙ and bₙ Fourier coefficients; the exact function is needed to choose the correct option."
+    },
+    {
+      "id": 44,
+      "question": "Which determinant property applies to the matrix operation described in the original paper?",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The exact matrix statement and options are not legible enough. Useful rules: swapping rows reverses the determinant's sign; adding a multiple of one row to another leaves it unchanged; scaling a row scales the determinant."
+    },
+    {
+      "id": 45,
+      "question": "Calculate the relative error for the expression shown in the original paper when x = y = 1.",
+      "options": {
+        "A": "0.005",
+        "B": "0.015",
+        "C": "0.003",
+        "D": "0.006"
+      },
+      "correct_answer": null,
+      "explanation": "The function whose relative error is required is unclear. In general, estimate absolute error using partial derivatives and divide by the magnitude of the function value to obtain relative error."
+    },
+    {
+      "id": 46,
+      "question": "A car is travelling at 76 m/s when braking begins. Its non-constant deceleration is given in the original paper. Find the distance travelled before stopping.",
+      "options": {
+        "A": "81 m",
+        "B": "57 m",
+        "C": "32 m",
+        "D": "43 m"
+      },
+      "correct_answer": null,
+      "explanation": "The deceleration function is not legible enough to calculate the stopping time and distance. Integrate a(t) to obtain velocity, find when v(t) = 0, then integrate velocity to get distance."
+    },
+    {
+      "id": 47,
+      "question": "For the characteristic equation of a second-order homogeneous linear differential equation, consider: (1) roots are complex when b²−4ac < 0; (2) roots are real when b²−4ac > 0. Which statements are correct?",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": "For am² + bm + c = 0, the discriminant D = b²−4ac. D < 0 gives complex conjugate roots; D > 0 gives two distinct real roots."
+    },
+    {
+      "id": 48,
+      "question": "A package contains 20 components, of which 5 are defective. Four are selected without replacement. What is the probability that exactly one is defective?",
+      "options": {
+        "A": "27/64",
+        "B": "29/62",
+        "C": "11/64",
+        "D": "37/64"
+      },
+      "correct_answer": null,
+      "explanation": "Use the hypergeometric probability: C(5,1)C(15,3)/C(20,4) = 2275/4845 = 455/969 ≈ 0.4696. None of the listed options matches, so the question or options may contain an error."
+    },
+    {
+      "id": 49,
+      "question": "If A = (6, 4) and B = (−3, 2), find the magnitude of vector AB.",
+      "options": {
+        "A": "√68",
+        "B": "√41",
+        "C": "√38",
+        "D": "√82"
+      },
+      "correct_answer": null,
+      "explanation": "AB = (−3−6, 2−4) = (−9,−2). Its magnitude is √(9²+2²) = √85, which is not among the options. Verify the coordinates in the original image."
+    },
+    {
+      "id": 50,
+      "question": "Find the Laplace transform of the piecewise trigonometric function shown in the original paper.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The piecewise definition is unclear in the scan. For delayed functions, use L{u(t−a)f(t−a)} = e^(−as)F(s); the exact function is required to choose an answer."
+    },
+    {
+      "id": 51,
+      "question": "A continuous random variable has density f(x) = 3x² for 0 < x < 1 and 0 otherwise. Find the ratio of mode to median.",
+      "options": {
+        "A": "∛2",
+        "B": "∛3",
+        "C": "∛6",
+        "D": "∛7"
+      },
+      "correct_answer": "A",
+      "explanation": "The density increases toward x = 1, so the intended mode is 1 (technically the open interval means the maximum is not attained). The CDF is F(x) = x³. Median m satisfies m³ = 1/2, so m = (1/2)^(1/3). Thus mode/median = ∛2."
+    },
+    {
+      "id": 52,
+      "question": "If the probability that a randomly selected baby weighs below the specified threshold is 0.1, and 20 babies are sampled, find P(X ≤ 1).",
+      "options": {
+        "A": "2.9(0.9)^19",
+        "B": "2.9(0.1)^19",
+        "C": "2.9(0.9)^20",
+        "D": "2.9(0.1)^20"
+      },
+      "correct_answer": "A",
+      "explanation": "X ~ Binomial(20, 0.1). P(X ≤ 1) = P(0)+P(1) = (0.9)^20 + 20(0.1)(0.9)^19 = 2.9(0.9)^19 ≈ 0.3917."
+    },
+    {
+      "id": 53,
+      "question": "Probability question about randomly distributed tickets shown on page 9 of the original paper.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The ticket problem's wording and values cannot be transcribed reliably from the image. Preserve as unverified rather than inventing an answer."
+    },
+    {
+      "id": 54,
+      "question": "A and B alternate throwing two dice. A wins by rolling a total of 6 before B rolls a total of 7. A starts. Find the probability A wins.",
+      "options": {
+        "A": "5/36",
+        "B": "31/36",
+        "C": "30/61",
+        "D": "5/16"
+      },
+      "correct_answer": "C",
+      "explanation": "P(A wins on a turn)=5/36 and P(B wins on a turn)=6/36=1/6. Let P be A's eventual win probability: P = 5/36 + (31/36)(5/6)P. Solving gives P = 30/61."
+    },
+    {
+      "id": 55,
+      "question": "A slip starts with a plus sign with probability 1/3 and a minus sign with probability 2/3. Three people independently change its sign with probability 2/3 each. Given that the final sign is plus, find the probability the original sign was plus.",
+      "options": {
+        "A": "13/27",
+        "B": "11/27",
+        "C": "13/41",
+        "D": "18/41"
+      },
+      "correct_answer": "C",
+      "explanation": "The probability of an even number of changes is 13/27; an odd number is 14/27. By Bayes' theorem, P(original + | final +) = [(1/3)(13/27)] / [(1/3)(13/27)+(2/3)(14/27)] = 13/41."
+    },
+    {
+      "id": 56,
+      "question": "Three boxes contain black and white balls. One box is selected at random and one ball is drawn. Find the probability that it is white.",
+      "options": {
+        "A": "220/27 × (1/?)",
+        "B": "...",
+        "C": "...",
+        "D": "..."
+      },
+      "correct_answer": null,
+      "explanation": "The box counts and answer options are not readable enough in the scan. The probability is the average of the white-ball proportions in each box if all boxes are equally likely."
+    },
+    {
+      "id": 57,
+      "question": "Bread sales X, measured in hundreds of pounds, have density f(x) = Ax for 0 ≤ x ≤ 5, A(10−x) for 5 ≤ x ≤ 10, and 0 otherwise. Find the probability sales are between 250 and 750 pounds.",
+      "options": {
+        "A": "1/2",
+        "B": "5/8",
+        "C": "3/4",
+        "D": "3/8"
+      },
+      "correct_answer": "C",
+      "explanation": "Normalizing the triangular density gives A = 1/25. The interval is X = 2.5 to 7.5. By symmetry, P = 2∫₂.₅⁵ x/25 dx = 0.75 = 3/4."
+    },
+    {
+      "id": 58,
+      "question": "A petrol pump's daily sales volume follows the uniform distribution specified in the original paper. Find the requested probability.",
+      "options": {
+        "A": "601.9 litres",
+        "B": "714.5 litres",
+        "C": "709.1 litres",
+        "D": "711.5 litres"
+      },
+      "correct_answer": null,
+      "explanation": "The distribution limits and exact event are unclear in the scan. For X ~ Uniform(a,b), P(c ≤ X ≤ d) = (d−c)/(b−a), for c and d inside the range."
+    },
+    {
+      "id": 59,
+      "question": "A number/sequence question shown on page 9 asks for a probability involving a ball. Determine the requested probability.",
+      "options": {
+        "A": "220/27 × (8/?)",
+        "B": "...",
+        "C": "...",
+        "D": "..."
+      },
+      "correct_answer": null,
+      "explanation": "The exact wording and options are too unclear to reconstruct reliably. The answer should not be guessed for a scored exam."
+    },
+    {
+      "id": 60,
+      "question": "A petrol pump's daily sales volume X follows the distribution shown in the original paper. Find the requested probability.",
+      "options": {
+        "A": "601.9 litres",
+        "B": "714.5 litres",
+        "C": "709.1 litres",
+        "D": "711.5 litres"
+      },
+      "correct_answer": null,
+      "explanation": "The printed distribution and probability event are not sufficiently clear to compute a reliable answer."
+    },
+    {
+      "id": 61,
+      "question": "If RAVYA is written in a code, how will ANITA be written in the same code language?",
+      "options": {
+        "A": "FPTPB",
+        "B": "FPTLB",
+        "C": "GTBPJ",
+        "D": "ETPCL"
+      },
+      "correct_answer": null,
+      "explanation": "The source code word is not clear enough to identify the transformation reliably. Compare alphabet positions and apply the observed rule only after confirming the original coded word."
+    },
+    {
+      "id": 62,
+      "question": "A man walks 4 km north, 3 km west, 4 km north, then 9 km east. How far is he from his house?",
+      "options": {
+        "A": "14 km",
+        "B": "10 km",
+        "C": "9 km",
+        "D": "8 km"
+      },
+      "correct_answer": "B",
+      "explanation": "Net displacement is 6 km east and 8 km north. Distance = √(6²+8²) = √100 = 10 km."
+    },
+    {
+      "id": 63,
+      "question": "Vishnu can complete a job in 10 days and Ram in 15 days. How many days will they take together?",
+      "options": {
+        "A": "10 days",
+        "B": "12 days",
+        "C": "6 days",
+        "D": "8 days"
+      },
+      "correct_answer": "C",
+      "explanation": "Combined daily work = 1/10 + 1/15 = 1/6. Therefore they complete one job in 6 days."
+    },
+    {
+      "id": 64,
+      "question": "Select the number that is different from the given alternatives on page 11.",
+      "options": {
+        "A": "Option A in source image",
+        "B": "Option B in source image",
+        "C": "Option C in source image",
+        "D": "Option D in source image"
+      },
+      "correct_answer": null,
+      "explanation": "The numbers in the scan are not sufficiently legible to identify the odd one out. Confirm the four numbers before scoring."
+    },
+    {
+      "id": 65,
+      "question": "Six friends A, B, C, D, E and F live on different floors. Determine who lives on the bottom floor using the conditions in the original paper.",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "D",
+        "D": "E"
+      },
+      "correct_answer": null,
+      "explanation": "The full floor-position constraints are not legible enough to reconstruct a unique arrangement. Do not use an unverified answer key."
+    },
+    {
+      "id": 66,
+      "question": "Pointing to a photograph, Avinash makes a family relationship statement about a woman and Mohan. How is the woman related to Avinash?",
+      "options": {
+        "A": "Mother",
+        "B": "Sister",
+        "C": "Grandmother",
+        "D": "Niece"
+      },
+      "correct_answer": null,
+      "explanation": "The statement in the scan is ambiguous and cannot be reliably transcribed. The relationship cannot be determined without the exact wording."
+    },
+    {
+      "id": 67,
+      "question": "Nihar walks on Mondays, Wednesdays, Fridays and every other Sunday during October. How many times does he walk?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "7",
+        "D": "10"
+      },
+      "correct_answer": null,
+      "explanation": "The alternate-Sunday starting condition and exact wording are unclear. Count all Mondays, Wednesdays and Fridays in the specified October, then add alternate Sundays based on the stated starting rule."
+    },
+    {
+      "id": 68,
+      "question": "In a code language, words such as 'water', 'lemon', 'orange' and 'tomato' are encoded. Find the code for the requested word.",
+      "options": {
+        "A": "ice",
+        "B": "base",
+        "C": "on",
+        "D": "red"
+      },
+      "correct_answer": null,
+      "explanation": "The example code phrases are too unclear to infer the mapping confidently. Verify the original examples before choosing an option."
+    },
+    {
+      "id": 69,
+      "question": "If each letter's value is three times its position in the English alphabet, find the value of the word shown in the original paper.",
+      "options": {
+        "A": "184",
+        "B": "176",
+        "C": "171",
+        "D": "161"
+      },
+      "correct_answer": null,
+      "explanation": "The word is not clear enough to calculate. Assign each letter 3 × its alphabet position and add the values once the word is confirmed."
+    },
+    {
+      "id": 70,
+      "question": "The 22nd day of January 2026 is Thursday. What date in the second week of May 2026 is Monday?",
+      "options": {
+        "A": "14th",
+        "B": "12th",
+        "C": "10th",
+        "D": "11th"
+      },
+      "correct_answer": "D",
+      "explanation": "The Mondays in May 2026 are the 4th, 11th, 18th and 25th. Interpreting 'second week' as the second calendar week, the answer is 11 May 2026."
+    },
+    {
+      "id": 71,
+      "question": "Ravi and Vishal are ranked 25th and 34th from the bottom. Find their ranks from the top, given the total class size in the original paper.",
+      "options": {
+        "A": "25th and 19th",
+        "B": "26th and 19th",
+        "C": "26th and 20th",
+        "D": "25th and 20th"
+      },
+      "correct_answer": null,
+      "explanation": "Rank from top = total number of students − rank from bottom + 1. The total class size in the scan is not sufficiently clear to select an option."
+    },
+    {
+      "id": 72,
+      "question": "In a cricket tournament, each of 10 teams plays every other team exactly once. How many matches are played?",
+      "options": {
+        "A": "90",
+        "B": "60",
+        "C": "45",
+        "D": "40"
+      },
+      "correct_answer": "C",
+      "explanation": "Each match corresponds to a pair of teams. Number of pairs = C(10,2) = 10×9/2 = 45."
+    },
+    {
+      "id": 73,
+      "question": "Six people sit in a circle facing the centre under the left/right constraints in the original paper. Who sits in the requested position?",
+      "options": {
+        "A": "E",
+        "B": "B",
+        "C": "D",
+        "D": "A"
+      },
+      "correct_answer": null,
+      "explanation": "The seating clues are not clear enough to reconstruct a unique arrangement. Confirm all statements before scoring this item."
+    },
+    {
+      "id": 74,
+      "question": "The radii of two spheres are in the ratio 5:3. Find the ratio of their volumes.",
+      "options": {
+        "A": "125:27",
+        "B": "125:27",
+        "C": "5:3",
+        "D": "25:9"
+      },
+      "correct_answer": "A",
+      "explanation": "Sphere volume is proportional to r³. Therefore the volume ratio is 5³:3³ = 125:27."
+    },
+    {
+      "id": 75,
+      "question": "A tells the truth with probability 0.6 and B with probability 0.7. Assuming independence, what is the probability they contradict each other?",
+      "options": {
+        "A": "10%",
+        "B": "30%",
+        "C": "46%",
+        "D": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "They contradict if A tells truth and B lies, or A lies and B tells truth: 0.6×0.3 + 0.4×0.7 = 0.18 + 0.28 = 0.46."
+    },
+    {
+      "id": 76,
+      "question": "A committee of 3 is selected from 10 men and 5 women. Find the probability that it contains at least 2 women.",
+      "options": {
+        "A": "2/3",
+        "B": "22/91",
+        "C": "5/91",
+        "D": "7/15"
+      },
+      "correct_answer": "B",
+      "explanation": "Total committees = C(15,3)=455. Favourable committees = C(5,2)C(10,1)+C(5,3)=100+10=110. Probability = 110/455 = 22/91."
+    },
+    {
+      "id": 77,
+      "question": "What is the probability that a leap year contains 53 Sundays?",
+      "options": {
+        "A": "2/7",
+        "B": "1/7",
+        "C": "3/7",
+        "D": "5/7"
+      },
+      "correct_answer": "A",
+      "explanation": "366 = 52×7 + 2. Two consecutive weekdays occur 53 times; Sunday is one of them when the year starts on Saturday or Sunday. Probability = 2/7."
+    },
+    {
+      "id": 78,
+      "question": "Find the missing number in the sequence shown in the original paper.",
+      "options": {
+        "A": "4, 7, 304 (as visible)",
+        "B": "19",
+        "C": "12",
+        "D": "17"
+      },
+      "correct_answer": null,
+      "explanation": "The sequence is not legible enough to determine its intended pattern or the missing value."
+    },
+    {
+      "id": 79,
+      "question": "If n is an integer between 80 and 90, which of the listed numbers cannot be n?",
+      "options": {
+        "A": "89",
+        "B": "92",
+        "C": "98",
+        "D": "88"
+      },
+      "correct_answer": "A",
+      "explanation": "This item is ambiguous as transcribed: if n is strictly between 80 and 90, 89 and 88 are both possible, while 92 and 98 are not. The original wording or options may have been misread, so no unique answer is assigned."
+    },
+    {
+      "id": 80,
+      "question": "If X + Y + Z = 13, where X, Y and Z are positive natural numbers, find the maximum possible value of X.",
+      "options": {
+        "A": "11",
+        "B": "9",
+        "C": "13",
+        "D": "10"
+      },
+      "correct_answer": "A",
+      "explanation": "Minimize Y and Z at 1 each. Then X = 13 − 1 − 1 = 11."
+    },
+    {
+      "id": 81,
+      "question": "BREL (India) Limited established a rare-earth-element recycling plant at a Rare Earth and Titanium Theme Park in which location?",
+      "options": {
+        "A": "Vijayapura",
+        "B": "Chinnor",
+        "C": "Bhopal",
+        "D": "Kottayam"
+      },
+      "correct_answer": null,
+      "explanation": "This is a specific current-affairs claim that requires verification against an official announcement. The scan alone does not establish the location."
+    },
+    {
+      "id": 82,
+      "question": "The Ministry of Agriculture and Farmers Welfare held the 'AgriStack & AI in Agriculture: Now, Next, Beyond' workshop on 29 January 2026 at which city?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Chennai",
+        "D": "Kolkata"
+      },
+      "correct_answer": null,
+      "explanation": "New Delhi is a plausible intended answer, but the venue should be confirmed from the Ministry's official announcement before scoring."
+    },
+    {
+      "id": 83,
+      "question": "The Department of Telecommunications rejected a Unified Licence application with GMPCS authorisation from which company?",
+      "options": {
+        "A": "OneWeb India Communications Private Limited",
+        "B": "Jio Satellite Communications Limited",
+        "C": "Starlink Satellite Communications Private Limited",
+        "D": "Vortex Networks Services Private Limited"
+      },
+      "correct_answer": null,
+      "explanation": "The specific regulatory decision needs an authoritative source. Do not infer the answer from the company names alone."
+    },
+    {
+      "id": 84,
+      "question": "The Indian Navy's First Training Squadron concluded a visit on 28 January 2026 at which port?",
+      "options": {
+        "A": "Phuket Deep Sea Port, Thailand",
+        "B": "Port Klang, Malaysia",
+        "C": "Port of Changi, Singapore",
+        "D": "Yangon Port, Myanmar"
+      },
+      "correct_answer": null,
+      "explanation": "The port call is a date-specific current-affairs fact that should be checked against an official Navy or host-port announcement."
+    },
+    {
+      "id": 85,
+      "question": "A project to develop civil aviation infrastructure at Air Force Station Leh was inaugurated on which date?",
+      "options": {
+        "A": "28 January 2026",
+        "B": "13 February 2026",
+        "C": "21 March 2026",
+        "D": "21 April 2026"
+      },
+      "correct_answer": null,
+      "explanation": "The inauguration date cannot be verified from the scan alone and should be checked against an official announcement."
+    },
+    {
+      "id": 86,
+      "question": "The Jal Jeevan Mission scheme period was extended to which date, according to the question?",
+      "options": {
+        "A": "December 2026",
+        "B": "December 2027",
+        "C": "December 2028",
+        "D": "December 2030"
+      },
+      "correct_answer": null,
+      "explanation": "December 2028 is a likely intended option in the question, but the extension and its exact terms need verification from official government documents."
+    },
+    {
+      "id": 87,
+      "question": "According to the Union Budget 2026–27, foreign companies providing cloud services using data-centre services in India would be eligible for a tax holiday until which year?",
+      "options": {
+        "A": "2035",
+        "B": "2040",
+        "C": "2047",
+        "D": "2050"
+      },
+      "correct_answer": null,
+      "explanation": "The likely intended answer is 2047, but the policy and eligibility conditions must be checked against official Budget documents."
+    },
+    {
+      "id": 88,
+      "question": "What does SOAR stand for in the certification mentioned in the question?",
+      "options": {
+        "A": "Skill Optimization and AI Revolution",
+        "B": "Skilling for AI Readiness",
+        "C": "Smart Opportunities for AI Revolution",
+        "D": "Skill-Oriented Artificial Intelligence Reform"
+      },
+      "correct_answer": null,
+      "explanation": "Option B is plausible from the wording, but the expansion should be confirmed from an official programme announcement."
+    },
+    {
+      "id": 89,
+      "question": "The 'Badalta Bharat Mera Anubhav' campaign is aligned with which vision?",
+      "options": {
+        "A": "Digital India 2030",
+        "B": "Atmanirbhar Bharat 2035",
+        "C": "Viksit Bharat@2047",
+        "D": "Make in India 2040"
+      },
+      "correct_answer": null,
+      "explanation": "Viksit Bharat@2047 is the likely intended answer, but the specific campaign alignment should be verified."
+    },
+    {
+      "id": 90,
+      "question": "The Vyommitra Innovation Challenge was launched by the Digital India BHASHINI Division in collaboration with which organisation(s)?",
+      "options": {
+        "A": "NITI Aayog and C-DAC",
+        "B": "Current AI and Kalpa Impact",
+        "C": "IndiaAI Mission and NIC",
+        "D": "ISRO and C-DOT"
+      },
+      "correct_answer": null,
+      "explanation": "The exact collaboration is a specific current-affairs detail not established by the scan alone."
+    },
+    {
+      "id": 91,
+      "question": "Which institute developed a biodegradable nanocarrier platform for hydrogen therapy in breast cancer?",
+      "options": {
+        "A": "Indian Institute of Science, Bengaluru",
+        "B": "Agharkar Research Institute, Pune",
+        "C": "National Centre for Cell Science, Pune",
+        "D": "Tata Memorial Centre, Mumbai"
+      },
+      "correct_answer": null,
+      "explanation": "The institute associated with this research development requires verification from a research or institutional announcement."
+    },
+    {
+      "id": 92,
+      "question": "India and South Africa agreed to strengthen bilateral cooperation primarily in which area?",
+      "options": {
+        "A": "Nuclear energy and defence manufacturing",
+        "B": "AI, digital infrastructure and advanced manufacturing",
+        "C": "Agriculture and food processing",
+        "D": "Space exploration and fisheries"
+      },
+      "correct_answer": null,
+      "explanation": "Option B appears to be the intended theme, but the exact agreement should be checked against an official bilateral statement."
+    },
+    {
+      "id": 93,
+      "question": "Which area was NOT identified as a priority for future India–South Africa technology cooperation in the question?",
+      "options": {
+        "A": "Artificial Intelligence",
+        "B": "Digital Infrastructure",
+        "C": "Advanced Manufacturing",
+        "D": "Quantum Computing"
+      },
+      "correct_answer": null,
+      "explanation": "Quantum computing is the likely intended answer if Q92's listed areas are confirmed, but this depends on verifying the source statement."
+    },
+    {
+      "id": 94,
+      "question": "The Digital India BHASHINI Division signed an MoU with which institution in Nepal to promote Indian-language technologies in digital public infrastructure?",
+      "options": {
+        "A": "Tribhuvan University",
+        "B": "Nepal Academy of Science and Technology",
+        "C": "Kathmandu University Centre for Digital Public Infrastructure and Artificial Intelligence",
+        "D": "Pokhara University"
+      },
+      "correct_answer": null,
+      "explanation": "The specific MoU partner must be confirmed from the official announcement."
+    },
+    {
+      "id": 95,
+      "question": "The first meeting of the BRICS Science Academies Forum in 2026 was convened by which institution?",
+      "options": {
+        "A": "NITI Aayog",
+        "B": "Department of Science and Technology",
+        "C": "Indian National Science Academy",
+        "D": "Council of Scientific and Industrial Research"
+      },
+      "correct_answer": null,
+      "explanation": "The Indian National Science Academy is a plausible intended option, but the meeting announcement should be checked before scoring."
+    },
+    {
+      "id": 96,
+      "question": "Approximately how far away is the spiral galaxy NGC 2139?",
+      "options": {
+        "A": "45.3 million light-years",
+        "B": "60.2 million light-years",
+        "C": "90.7 million light-years",
+        "D": "120.5 million light-years"
+      },
+      "correct_answer": null,
+      "explanation": "The galaxy's distance is an astronomical fact requiring a reliable astronomy reference. The options alone do not establish the correct value."
+    },
+    {
+      "id": 97,
+      "question": "A Type II supernova typically originates from which type of star?",
+      "options": {
+        "A": "White dwarf star",
+        "B": "Blue giant star",
+        "C": "Brown dwarf star",
+        "D": "Red supergiant star"
+      },
+      "correct_answer": "D",
+      "explanation": "A Type II supernova is a core-collapse event in a massive star that retains hydrogen in its spectrum; such a star may be a red supergiant before collapse."
+    },
+    {
+      "id": 98,
+      "question": "With support of the IndiaAI Mission, which company launched the 'Vajra' digital video AI model described in the question?",
+      "options": {
+        "A": "Sarvam AI",
+        "B": "Krutrim AI",
+        "C": "Avataar AI",
+        "D": "Hanuman AI"
+      },
+      "correct_answer": null,
+      "explanation": "The model name and company attribution require verification from a company or government announcement."
+    },
+    {
+      "id": 99,
+      "question": "Which state inaugurated its first semiconductor pilot plant, described in the question as an 8-inch SiC-LED facility?",
+      "options": {
+        "A": "Gujarat",
+        "B": "Karnataka",
+        "C": "Rajasthan",
+        "D": "Tamil Nadu"
+      },
+      "correct_answer": null,
+      "explanation": "The state associated with this specific inauguration needs confirmation from an official announcement."
+    },
+    {
+      "id": 100,
+      "question": "Under the Great Indian Bustard captive breeding programme, two new chicks hatched at which location?",
+      "options": {
+        "A": "Desert National Park, Jaisalmer",
+        "B": "Conservation Breeding Centre, Jaisalmer",
+        "C": "National Zoological Park, New Delhi",
+        "D": "Keoladeo National Park, Bharatpur"
+      },
+      "correct_answer": null,
+      "explanation": "The Conservation Breeding Centre at Jaisalmer is the likely intended option, but the specific hatch announcement should be verified before scoring."
+    }
+  ]
+}
