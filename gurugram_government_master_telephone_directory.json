@@ -1,0 +1,3469 @@
+{
+  "metadata": {
+    "title": "Gurugram District Government Offices and Officials Telephone Directory",
+    "jurisdiction": "Gurugram District, Haryana, India",
+    "generated_on": "2026-11-10",
+    "coverage_note": "A broad, source-backed public directory assembled from government websites and official public PDFs available during research. It cannot honestly be certified as every office or every serving official: some government pages publish no phone number, some departments maintain separate internal directories, and officeholders/contact numbers change.",
+    "data_policy": [
+      "Only publicly published official office telephone numbers and official-duty contact numbers are included in the verified records.",
+      "Personal/residential numbers are not intentionally included.",
+      "Blank arrays mean no telephone number was published in the cited source; they do not mean the office has no phone.",
+      "Numbers are strings to preserve formatting and leading zeroes.",
+      "Use source_id and verification_status to evaluate confidence and freshness.",
+      "Legacy contacts are kept in a separate appendix and must not be treated as currently verified."
+    ],
+    "counts": {
+      "verified_or_official_records": 113,
+      "legacy_unverified_records": 83,
+      "police_station_records": 36,
+      "special_police_unit_records": 12
+    }
+  },
+  "sources": {
+    "gurugram_district_telephone_directory": {
+      "url": "https://gurugram.gov.in/telephone-directory/",
+      "publisher": "District Administration Gurugram, Government of Haryana",
+      "page_last_updated": "2026-05-05",
+      "accessed": "2026-11-10",
+      "notes": "Official district telephone directory; landline, email and address fields."
+    },
+    "gurugram_district_contact_directory": {
+      "url": "https://gurugram.gov.in/contact-directory/",
+      "publisher": "District Administration Gurugram, Government of Haryana",
+      "accessed": "2026-11-10",
+      "notes": "Official department-wise contact directory; includes mobile/landline fields where published."
+    },
+    "haryana_police_commissionerate_directory": {
+      "url": "https://www.haryanapolice.gov.in/static/TelephoneDirectory_cpggn",
+      "publisher": "Haryana Police",
+      "page_last_updated": "2026-10-21",
+      "accessed": "2026-11-10"
+    },
+    "haryana_police_station_directory": {
+      "url": "https://www.haryanapolice.gov.in/DistrictTelephone/Citizen%20Services/PublicImformationMenu?id=1",
+      "publisher": "Haryana Police",
+      "accessed": "2026-11-10",
+      "notes": "Police-station details appear across Haryana Police directory pages; source search results included multiple directory fragments."
+    },
+    "mcg_contact_directory": {
+      "url": "https://mcg.gov.in/contact/contact-directory",
+      "publisher": "Municipal Corporation of Gurugram",
+      "accessed": "2026-11-10"
+    },
+    "gmda_contact": {
+      "url": "https://onemapdepts.gmda.gov.in/",
+      "publisher": "Gurugram Metropolitan Development Authority",
+      "accessed": "2026-11-10",
+      "notes": "Official GMDA GIS portal contact section."
+    },
+    "dhbvn_gurugram_contact_pdf": {
+      "url": "https://dhbvn.org.in/staticContent/contactus/gurugram-1.pdf",
+      "publisher": "Dakshin Haryana Bijli Vitran Nigam",
+      "accessed": "2026-11-10",
+      "notes": "Official Gurugram-I operations circle contact PDF; includes officer names, office phones and mobile numbers."
+    },
+    "hsvp_whos_who": {
+      "url": "https://hsvphry.org.in/Home/Whoswho",
+      "publisher": "Haryana Shehri Vikas Pradhikaran",
+      "accessed": "2026-11-10",
+      "notes": "Official HSVP Who's Who; Gurugram Administrator and Gurugram Estate Officers extracted."
+    },
+    "gmda_additional_directory_secondary": {
+      "url": "https://www.indiacustomercare.com/gurugram-metropolitan-development-authority-contact-no",
+      "publisher": "India Customer Care",
+      "page_last_updated": "2026-10-06",
+      "accessed": "2026-11-10",
+      "notes": "Secondary directory, not used as primary-verified official contact unless separately corroborated."
+    }
+  },
+  "government_office_contacts": [
+    {
+      "department": "District Administration",
+      "office": "Deputy Commissioner Office",
+      "designation": "Deputy Commissioner, Gurugram",
+      "official_name": "Sh. Uttam Singh, IAS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321144"
+        ],
+        "published_mobile": []
+      },
+      "email": "dcgrg@hry.nic.in",
+      "office_address": "Mini Secretariat, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "Additional Deputy Commissioner Office",
+      "designation": "ADC, Gurugram",
+      "official_name": "Sh. Sonu Bhatt, IAS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322211"
+        ],
+        "published_mobile": []
+      },
+      "email": "adcgrg@hry.nic.in",
+      "office_address": "Vikas Sadan, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "City Magistrate Office",
+      "designation": "City Magistrate",
+      "official_name": "Ms. Jyoti Nagpal, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320305"
+        ],
+        "published_mobile": []
+      },
+      "email": "ctmgrg@hry.nic.in",
+      "office_address": "1st Floor, Mini Secretariat, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "SDM Gurugram Office",
+      "designation": "SDM, Gurugram",
+      "official_name": "Sh. Hitender Kumar, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321808"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm.gurgaon@hry.nic.in",
+      "office_address": "Ground Floor, Mini Secretariat, Near Rajiv Chowk, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "SDM Badshahpur Office",
+      "designation": "SDM, Badshahpur",
+      "official_name": "Sh. Sanjeev Singhla, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2570029"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm-badshahpur.grg@hry.gov.in",
+      "office_address": "SDM Badshahpur, Sector-57, Wazirabad, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "SDM South Gurugram Office",
+      "designation": "SDM South Gurugram",
+      "official_name": "Sh. Akhilesh Kumar Yadav, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2395042"
+        ],
+        "published_mobile": [
+          "9582400045"
+        ]
+      },
+      "email": "sdm.southgrg-hry@gov.in",
+      "office_address": "Old Judicial Complex, Anaj Mandi, Sohna, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "SDM Pataudi Office",
+      "designation": "SDM Pataudi",
+      "official_name": "Sh. Dinesh, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2672900"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm.pataudi-hry@nic.in",
+      "office_address": "SDM Office, Pataudi",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "District Administration",
+      "office": "SDM Manesar Office",
+      "designation": "SDM Manesar",
+      "official_name": "Sh. Darshan Yadav, HCS",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_name_published_no_phone",
+      "notes": "Official district directory lists the officer/designation but publishes no telephone or email in the directory extract."
+    },
+    {
+      "department": "Revenue Department",
+      "office": "District Revenue Officer Office",
+      "designation": "District Revenue Officer",
+      "official_name": "Sh. Vijay Yadav",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321650"
+        ],
+        "published_mobile": []
+      },
+      "email": "drogrg@hry.nic.in",
+      "office_address": "2nd Floor, Mini Secretariat, Near Rajiv Chowk, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Revenue Department",
+      "office": "Tehsil Gurugram",
+      "designation": "Tehsildar Gurugram",
+      "official_name": "Jagdish",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.gurgaon@hry.nic.in",
+      "office_address": "Tehsil Gurugram Complex, Mini Secretariat, Near Rajiv Chowk, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Revenue Department",
+      "office": "Tehsil Pataudi",
+      "designation": "Tehsildar Pataudi",
+      "official_name": "Sh. Rohtash",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.pataudi@hry.nic.in",
+      "office_address": "SDM Office Complex, Pataudi, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Revenue Department",
+      "office": "Tehsil Sohna",
+      "designation": "Tehsildar Sohna",
+      "official_name": "Shikha",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.sohna@hry.nic.in",
+      "office_address": "Sohna",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "District Development and Panchayat Office",
+      "designation": "DDPO Gurugram",
+      "official_name": "Smt. Navneet Kaur",
+      "telephone": {
+        "office_landlines": [
+          "0124-2328834"
+        ],
+        "published_mobile": []
+      },
+      "email": "ddpogrg@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "BDPO Gurugram",
+      "designation": "BDPO Gurugram",
+      "official_name": "Deepika",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.gurgaon@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "Zila Parishad",
+      "designation": "Chief Executive Officer, Zila Parishad",
+      "official_name": "Sh. Sumit Kumar, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2333161"
+        ],
+        "published_mobile": []
+      },
+      "email": "zpgrg@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "Panchayati Raj",
+      "designation": "Superintending Engineer, Panchayati Raj",
+      "official_name": "Sh. Yashvir Singh",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "prsupdteng.grg@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "BDPO Pataudi",
+      "designation": "BDPO Pataudi",
+      "official_name": "Sheetal",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.pataudi@gmail.com",
+      "office_address": "BDPO Office, Pataudi, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "BDPO Sohna",
+      "designation": "BDPO Sohna",
+      "official_name": "Sh. Sachit Mittal",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.sohna86@gmail.com",
+      "office_address": "BDPO Office Complex, Sohna, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Development Department",
+      "office": "BDPO Farrukhnagar",
+      "designation": "BDPO Farrukhnagar",
+      "official_name": "Sh. Naresh Kumar",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.farrukhnagar@hry.nic.in",
+      "office_address": "BDPO Office, Farrukhnagar, Gurugram",
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "District Education Office",
+      "designation": "District Education Officer",
+      "official_name": "Smt. Indu Boken",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322081"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "District Elementary Education Office",
+      "designation": "District Elementary Education Officer",
+      "official_name": "Saroj Dahiya",
+      "telephone": {
+        "office_landlines": [
+          "0124-2328387"
+        ],
+        "published_mobile": []
+      },
+      "email": "deeogrg@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "Government College Sector 14",
+      "designation": "Principal",
+      "official_name": "Jitender Malik",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320783"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "Dronacharya / DSD College",
+      "designation": "Principal",
+      "official_name": "Pushpa Antil",
+      "telephone": {
+        "office_landlines": [
+          "0124-4331700"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "Government ITI Gurugram",
+      "designation": "Principal",
+      "official_name": "Ravindar Kumar",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320434"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Education Department",
+      "office": "Women ITI Gurugram",
+      "designation": "Principal",
+      "official_name": "Jagmindar Singh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2223383"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Health Department",
+      "office": "Civil Surgeon Office",
+      "designation": "Civil Surgeon, Gurugram",
+      "official_name": "Dr. Lokveer",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322412"
+        ],
+        "published_mobile": []
+      },
+      "email": "dhs.csgrg@hry.nic.in",
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Health Department",
+      "office": "Drug Control Office",
+      "designation": "Drug Control Officer",
+      "official_name": "Sh. Amandeep Chauhan",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "gurugram_district_telephone_directory",
+      "verification_status": "official_directory_incomplete",
+      "notes": "Directory entry shows incomplete landline field (0124-); no usable number published."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "Commissioner of Police Office",
+      "designation": "Commissioner of Police, Gurugram",
+      "official_name": "Sibash Kabiraj, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2311200",
+          "0124-2313200"
+        ],
+        "published_mobile": [
+          "9999981801"
+        ]
+      },
+      "email": "cp.ggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "Joint Commissioner of Police Office",
+      "designation": "Joint Commissioner of Police, Gurugram",
+      "official_name": "Sangeeta Kalia, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2869300"
+        ],
+        "published_mobile": [
+          "9999981802"
+        ]
+      },
+      "email": "jtcp.ggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP Headquarters Office",
+      "designation": "DCP/Hqrs.",
+      "official_name": "Dr. Anshu Singla, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2869300"
+        ],
+        "published_mobile": [
+          "9999981803"
+        ]
+      },
+      "email": "dcp.hqggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP East Office",
+      "designation": "DCP/East, Gurugram",
+      "official_name": "Sandeep Kumar, HPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2572659",
+          "0124-2573659"
+        ],
+        "published_mobile": [
+          "9999981804"
+        ]
+      },
+      "email": "dcp.eastggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP West Office",
+      "designation": "DCP/West, Gurugram",
+      "official_name": "Y.V.R. Sashi Sekhar, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2224899"
+        ],
+        "published_mobile": [
+          "9999981805"
+        ]
+      },
+      "email": "dcp.westggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP Manesar Office",
+      "designation": "DCP/Manesar",
+      "official_name": "Prateek Gahlot, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2290191",
+          "0124-2975507"
+        ],
+        "published_mobile": [
+          "9205892109"
+        ]
+      },
+      "email": "dcp-manesargrg.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP South Office",
+      "designation": "DCP/South, Gurugram",
+      "official_name": "Aayush Yadav, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2869300"
+        ],
+        "published_mobile": [
+          "9999981807"
+        ]
+      },
+      "email": "dcp.southggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP Crime Office",
+      "designation": "DCP/Crime, Gurugram (Additional Charge)",
+      "official_name": "Nitish Aggarwal, IPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2869300"
+        ],
+        "published_mobile": [
+          "9999981806"
+        ]
+      },
+      "email": "dcpcrime.grg@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "DCP Traffic Office",
+      "designation": "DCP/Traffic, Gurugram",
+      "official_name": "Hitesh Yadav, HPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2576015"
+        ],
+        "published_mobile": [
+          "9999981808"
+        ]
+      },
+      "email": "dcp.trafficggn@hry.nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Commissionerate",
+      "office": "Mirror Emergency Response Centre",
+      "designation": "Incharge (Additional Charge)",
+      "official_name": "Hitesh Yadav, HPS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2576015"
+        ],
+        "published_mobile": [
+          "9999981808"
+        ]
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory states updated 21 October 2026."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sadar Gurugram",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2201476"
+        ],
+        "published_mobile": [
+          "9999981825"
+        ]
+      },
+      "email": "shoggnsdr-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station DLF Sector 29",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2396700"
+        ],
+        "published_mobile": [
+          "9999981822"
+        ]
+      },
+      "email": "shodlfggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sushant Lok",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2386231"
+        ],
+        "published_mobile": [
+          "9999981826"
+        ]
+      },
+      "email": "shosushantlok-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station DLF Phase I",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2567223"
+        ],
+        "published_mobile": [
+          "9999981827"
+        ]
+      },
+      "email": "shodlfphase1-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station DLF Phase II",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2566387"
+        ],
+        "published_mobile": [
+          "9999981821"
+        ]
+      },
+      "email": "shodlf2ggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station DLF Phase III",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2566380"
+        ],
+        "published_mobile": [
+          "9205892152"
+        ]
+      },
+      "email": "shodlfphase3grg.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 65",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "9205892147"
+        ]
+      },
+      "email": "shosec65grg.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 40",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2381567"
+        ],
+        "published_mobile": [
+          "9999981824"
+        ]
+      },
+      "email": "shosec40ggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 56",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2578101",
+          "0124-2574100"
+        ],
+        "published_mobile": []
+      },
+      "email": "shosec56ggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Haryana Police directory shows both numbers as station telephone numbers; verify current routing."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Metro",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2570800"
+        ],
+        "published_mobile": [
+          "9999981829"
+        ]
+      },
+      "email": "shometroggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 50",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2583777"
+        ],
+        "published_mobile": [
+          "9205892111"
+        ]
+      },
+      "email": "shosec50ggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 53",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2576355"
+        ],
+        "published_mobile": [
+          "9205892112"
+        ]
+      },
+      "email": "shosec53ggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station City Gurugram",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321496"
+        ],
+        "published_mobile": [
+          "9999981833"
+        ]
+      },
+      "email": "shoggncity-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 10",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2370490"
+        ],
+        "published_mobile": [
+          "9999981836"
+        ]
+      },
+      "email": "shosec10ggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Civil Lines",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2224233"
+        ],
+        "published_mobile": [
+          "9999981834"
+        ]
+      },
+      "email": "shocivillinesggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Old Gurugram Sector 5",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-254610"
+        ],
+        "published_mobile": [
+          "9999981835"
+        ]
+      },
+      "email": "shosec5oldggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Rajendra Park",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2469210"
+        ],
+        "published_mobile": [
+          "9999981837"
+        ]
+      },
+      "email": "shorajendrapark-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Udyog Vihar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2340200"
+        ],
+        "published_mobile": [
+          "9999981831"
+        ]
+      },
+      "email": "shoudyogvihar-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 18",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2398140"
+        ],
+        "published_mobile": [
+          "9999981838"
+        ]
+      },
+      "email": "shosec17-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Palam Vihar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2360148"
+        ],
+        "published_mobile": [
+          "9999981832"
+        ]
+      },
+      "email": "shopalamvihar-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 9A",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2251437"
+        ],
+        "published_mobile": [
+          "9205892117"
+        ]
+      },
+      "email": "shosec9aggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 14",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2300365"
+        ],
+        "published_mobile": [
+          "9205892118"
+        ]
+      },
+      "email": "shosec14ggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Bajghera",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2267488"
+        ],
+        "published_mobile": [
+          "9205892116"
+        ]
+      },
+      "email": "shobajggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station New Colony",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2302270"
+        ],
+        "published_mobile": [
+          "9205892119"
+        ]
+      },
+      "email": "shoncggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Shivaji Nagar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2307300"
+        ],
+        "published_mobile": [
+          "9205892120"
+        ]
+      },
+      "email": "shoshivaggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Badshahpur",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2394062"
+        ],
+        "published_mobile": [
+          "9999981844"
+        ]
+      },
+      "email": "shobadshahpur-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sohna",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2362225",
+          "0124-2262425"
+        ],
+        "published_mobile": []
+      },
+      "email": "shosohna-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Source displayed a malformed/ambiguous STD code for the first number; normalized to Gurugram 0124 based on district context. Verify before use."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Bhondsi",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2393100"
+        ],
+        "published_mobile": [
+          "9999981846"
+        ]
+      },
+      "email": "shobhondsi-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Pataudi",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2672970"
+        ],
+        "published_mobile": [
+          "9999981842"
+        ]
+      },
+      "email": "shopataudi-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Manesar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2290100"
+        ],
+        "published_mobile": [
+          "9999981843"
+        ]
+      },
+      "email": "shomanesar-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Kherki Daula",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2370499"
+        ],
+        "published_mobile": [
+          "9999981830",
+          "8595953236"
+        ]
+      },
+      "email": "shokherkhidaula-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Bilaspur",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2379580"
+        ],
+        "published_mobile": [
+          "9999981847"
+        ]
+      },
+      "email": "shobilaspurgrg-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Farrukhnagar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2375228"
+        ],
+        "published_mobile": [
+          "9999981841"
+        ]
+      },
+      "email": "shofarrukhnagar-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station City Sohna",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2262225"
+        ],
+        "published_mobile": [
+          "9205892113"
+        ]
+      },
+      "email": "shosohanaggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station Sector 37",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2210100"
+        ],
+        "published_mobile": [
+          "9205892115"
+        ]
+      },
+      "email": "shosec37ggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Police Stations",
+      "office": "Police Station IMT Manesar",
+      "designation": "Station House Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2292200"
+        ],
+        "published_mobile": [
+          "9205892114"
+        ]
+      },
+      "email": "shoimtggm.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": "Numbers transcribed from Haryana Police public directory; confirm current SHO/number before relying."
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Cyber Crime East Gurugram",
+      "designation": "Cyber Crime East Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "9205892132"
+        ]
+      },
+      "email": "shocybergrg.pol-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Cyber Crime West Gurugram",
+      "designation": "Cyber Crime West Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2973900"
+        ],
+        "published_mobile": [
+          "9289691108"
+        ]
+      },
+      "email": "shocbrcrimewest.ggn@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Cyber Crime South Gurugram",
+      "designation": "Cyber Crime South Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2363500"
+        ],
+        "published_mobile": [
+          "9289691109"
+        ]
+      },
+      "email": "shocbrcrimesouth.ggn@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Cyber Crime Manesar Gurugram",
+      "designation": "Cyber Crime Manesar Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2972117"
+        ],
+        "published_mobile": [
+          "9289691110"
+        ]
+      },
+      "email": "shocbrcrimemsr.ggn@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Women Police Station Gurugram",
+      "designation": "Women Police Station Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2218057"
+        ],
+        "published_mobile": [
+          "9205892107"
+        ]
+      },
+      "email": "showomenpsgn-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Women Police Station Manesar",
+      "designation": "Women Police Station Manesar",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2292300"
+        ],
+        "published_mobile": [
+          "9205892148"
+        ]
+      },
+      "email": "showomenmanesar.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Women Police Station West Gurugram",
+      "designation": "Women Police Station West Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2218057"
+        ],
+        "published_mobile": [
+          "9205892122"
+        ]
+      },
+      "email": "showomenpsgn-hry@gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "GRP Gurugram Railway Police Station",
+      "designation": "GRP Gurugram Railway Police Station",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2250291"
+        ],
+        "published_mobile": [
+          "7291972103"
+        ]
+      },
+      "email": "sho-grpgrg.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Anti-Corruption Bureau Gurugram",
+      "designation": "Anti-Corruption Bureau Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2219043"
+        ],
+        "published_mobile": []
+      },
+      "email": "ggm-acb@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Traffic Police Gurugram City",
+      "designation": "Traffic Police Gurugram City",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2210600"
+        ],
+        "published_mobile": [
+          "9416397125"
+        ]
+      },
+      "email": "shotrafficggncity-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Traffic Police Gurugram",
+      "designation": "Traffic Police Gurugram",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "8586976019"
+        ]
+      },
+      "email": "shotrafficggn-hry@nic.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Special Police Units",
+      "office": "Women Police Station Gurugram (Manesar)",
+      "designation": "Women Police Station Gurugram (Manesar)",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2292300"
+        ],
+        "published_mobile": [
+          "9205892148"
+        ]
+      },
+      "email": "showomenmanesar.pol@hry.gov.in",
+      "office_address": null,
+      "source_id": "haryana_police_station_directory",
+      "verification_status": "official_police_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "MCG 24x7 Helpline",
+      "designation": "Citizen helpline",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "18001801817"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "office_address": null,
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "Commissioner Office",
+      "designation": "Municipal Commissioner",
+      "official_name": "Sh. Pradeep Dahiya, IAS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2370911"
+        ],
+        "published_mobile": []
+      },
+      "email": "cmc@mcg.gov.in",
+      "office_address": "Plot No. C-1, Info City, Sector 34, Gurugram",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "Chief Town Planner Office",
+      "designation": "Chief Town Planner",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2371977"
+        ],
+        "published_mobile": []
+      },
+      "email": "ctp@mcg.gov.in",
+      "office_address": "Plot No. C-1, Info City, Sector 34, Gurugram",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "Chief Engineer Office",
+      "designation": "Chief Engineer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "ce2@mcg.gov.in",
+      "office_address": "Plot No. C-1, Info City, Sector 34, Gurugram",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory_no_phone",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "Chief Account Officer Office",
+      "designation": "Chief Account Officer",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0982-1395110"
+        ],
+        "published_mobile": []
+      },
+      "email": "cao@mcg.gov.in",
+      "office_address": "Plot No. C-1, Info City, Sector 34, Gurugram",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "Zonal Taxation Officer HQ",
+      "designation": "Zonal Taxation Officer HQ",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0982-1395150"
+        ],
+        "published_mobile": []
+      },
+      "email": "ztohq@mcg.gov.in",
+      "office_address": "Opposite General Hospital, Gurugram",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "Municipal Corporation of Gurugram",
+      "office": "MCG Head Office",
+      "designation": "General contact",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "18001801817"
+        ],
+        "published_mobile": []
+      },
+      "email": "info@mcg.gov.in",
+      "office_address": "Sector 34, Gurugram, Haryana 122001",
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "GMDA",
+      "office": "GMDA GIS / General Information Contact",
+      "designation": "Public contact",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2220511"
+        ],
+        "published_mobile": []
+      },
+      "email": "headgis.gmda@gov.in",
+      "office_address": "Plot No. 3, Sector 44, Near HUDA City Centre Metro Station, Gurugram, Haryana 122003",
+      "source_id": "gmda_contact",
+      "verification_status": "official_portal_contact",
+      "notes": "This is the published contact on GMDA's One Map portal; it is not necessarily the CEO's direct line."
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Electricity Complaint Helpline",
+      "designation": "Consumer complaint line",
+      "official_name": null,
+      "telephone": {
+        "office_landlines": [
+          "1912",
+          "1800-180-4334"
+        ],
+        "published_mobile": [
+          "8813999708"
+        ]
+      },
+      "email": "1912@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_pdf",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Superintending Engineer OP Circle Gurugram-I",
+      "designation": "Superintending Engineer",
+      "official_name": "Er. Shyambir Saini",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322427"
+        ],
+        "published_mobile": [
+          "9540954930"
+        ]
+      },
+      "email": "seop1gurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "XEN City Division Gurugram",
+      "designation": "Executive Engineer",
+      "official_name": "Er. Manoj Kumar Nehra",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320971"
+        ],
+        "published_mobile": [
+          "9540954931"
+        ]
+      },
+      "email": "xenopcitygurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "CCC IDC Gurugram",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Sohel Ahmed, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322339"
+        ],
+        "published_mobile": [
+          "9540954932"
+        ]
+      },
+      "email": "sdoopidcgurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "CCC New Colony",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Sahil, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2382364"
+        ],
+        "published_mobile": [
+          "9540954933"
+        ]
+      },
+      "email": "sdoopnewcolonygurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "New Palam Vihar Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Vikram Singh, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2467300"
+        ],
+        "published_mobile": [
+          "7840003575"
+        ]
+      },
+      "email": "sdoopnewpalamvihar@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Sector 5 Gurugram Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Ravinder Pal Singh, AE",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "9990016056"
+        ]
+      },
+      "email": "sdoopsec5gurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "CCC Kadipur Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Jagdeep Singh, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320821"
+        ],
+        "published_mobile": [
+          "9540954934"
+        ]
+      },
+      "email": "sdoopkadipur@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Sector 37 Gurugram Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Manish Wadhwa, AE",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "7669888041"
+        ]
+      },
+      "email": "sdoopsec37@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "XEN Manesar Division",
+      "designation": "Executive Engineer",
+      "official_name": "Er. Amit Kamboj",
+      "telephone": {
+        "office_landlines": [
+          "0124-2978029"
+        ],
+        "published_mobile": [
+          "9540954800"
+        ]
+      },
+      "email": "xenopmanesar@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Manesar Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Pardeep Kumar Soni, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2337209"
+        ],
+        "published_mobile": [
+          "9540954804"
+        ]
+      },
+      "email": "sdoopmanesar@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Kherki Daula Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Suman, AEE",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "7419801021"
+        ]
+      },
+      "email": "sdoopkherkidaula@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Bhorakalan Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Liyakat Ali, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2379527"
+        ],
+        "published_mobile": [
+          "9540954801"
+        ]
+      },
+      "email": "sdoopbhorakalan@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Farrukhnagar Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Manpal Dhull, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2375233"
+        ],
+        "published_mobile": [
+          "8059888655"
+        ]
+      },
+      "email": "sdoopfarukhnagar@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Hailymandi Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Prabhansh Pratap, AE",
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": [
+          "7419801020"
+        ]
+      },
+      "email": "sdoophailymandi@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "Pataudi Sub-Division",
+      "designation": "Sub-Division Officer",
+      "official_name": "Er. Rohit Kumar, AE",
+      "telephone": {
+        "office_landlines": [
+          "0124-2672603"
+        ],
+        "published_mobile": [
+          "8059888667"
+        ]
+      },
+      "email": "sdooppataudi@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "DHBVN Electricity",
+      "office": "XEN Works Gurugram",
+      "designation": "Executive Engineer",
+      "official_name": "Vacant",
+      "telephone": {
+        "office_landlines": [
+          "0124-2220761"
+        ],
+        "published_mobile": []
+      },
+      "email": "xenworksgurugram@dhbvn.org.in",
+      "office_address": null,
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official_pdf_vacant_post",
+      "notes": null
+    },
+    {
+      "department": "HSVP",
+      "office": "Administrator HSVP Gurugram",
+      "designation": "Administrator",
+      "official_name": "Smt. Vaishali Singh, IAS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321650"
+        ],
+        "published_mobile": []
+      },
+      "email": "admggnhuda@gmail.com",
+      "office_address": null,
+      "source_id": "hsvp_whos_who",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "HSVP",
+      "office": "Estate Officer-I Gurugram",
+      "designation": "Estate Officer-I",
+      "official_name": "Smt. Anupama Malik, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2371346"
+        ],
+        "published_mobile": []
+      },
+      "email": "eoggnhuda@gmail.com",
+      "office_address": null,
+      "source_id": "hsvp_whos_who",
+      "verification_status": "official_directory",
+      "notes": null
+    },
+    {
+      "department": "HSVP",
+      "office": "Estate Officer-II Gurugram",
+      "designation": "Estate Officer-II",
+      "official_name": "Sh. Rakesh Saini, HCS",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321253"
+        ],
+        "published_mobile": []
+      },
+      "email": "eoggnhuda2@gmail.com",
+      "office_address": null,
+      "source_id": "hsvp_whos_who",
+      "verification_status": "official_directory",
+      "notes": null
+    }
+  ],
+  "legacy_unverified_contacts": [
+    {
+      "department": "District Administration",
+      "designation": "Deputy Commissioner, Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321144"
+        ],
+        "published_mobile": []
+      },
+      "email": "dcgrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "ADC, Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2322211"
+        ],
+        "published_mobile": []
+      },
+      "email": "adcgrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "City Magistrate",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320305"
+        ],
+        "published_mobile": []
+      },
+      "email": "ctmgrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "SDM, Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321808"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm.gurgaon@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "SDM, Badshahpur",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2570029"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm-badshahpur.grg@hry.gov.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "SDM, Sohna",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2395042"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm.southgrg-hry@gov.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Administration",
+      "designation": "SDM, Pataudi",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2672900"
+        ],
+        "published_mobile": []
+      },
+      "email": "sdm.pataudi-hry@nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Revenue Department",
+      "designation": "District Revenue Officer (DRO)",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321650"
+        ],
+        "published_mobile": []
+      },
+      "email": "drogrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Revenue Department",
+      "designation": "Tehsildar Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.gurgaon@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Revenue Department",
+      "designation": "Tehsildar Pataudi",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.pataudi@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Revenue Department",
+      "designation": "Tehsildar Sohna",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "tehsildar.sohna@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Revenue Department",
+      "designation": "Tehsildar Farrukh Nagar",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "teh.farrukhnagar-hry@gov.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "D.D. & P.O Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2328834"
+        ],
+        "published_mobile": []
+      },
+      "email": "ddpogrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "BDPO Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.gurgaon@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "CEO, Zila Parishad",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2333161"
+        ],
+        "published_mobile": []
+      },
+      "email": "zpgrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "SE, Panchayati Raj",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "prsupdteng.grg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "BDPO Pataudi",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.pataudi@gmail.com",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "BDPO Sohna",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.sohna86@gmail.com",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "BDPO Farrukhnagar",
+      "name": null,
+      "telephone": {
+        "office_landlines": [],
+        "published_mobile": []
+      },
+      "email": "bdpo.farrukhnagar@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Development Department",
+      "designation": "Assistant District Attorney (ADA)",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2324023",
+          "0124-2324023"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "D.E.O",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2322081"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "D.E.E.O",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2328387"
+        ],
+        "published_mobile": []
+      },
+      "email": "deeogrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "Principal, Govt. College Sector-14",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320783"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "Principal, DSD College",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-4331700"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "Principal, ITI",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320434"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "Principal, Women ITI",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2223383"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Education Department",
+      "designation": "Director, S.C.E.R.T",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2314909"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Health Department",
+      "designation": "Civil Surgeon, Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2322412"
+        ],
+        "published_mobile": []
+      },
+      "email": "dhs.csgrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Health Department",
+      "designation": "District Ayurvedic Officer, Gurugram",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2253649"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Health Department",
+      "designation": "Civil Surgeon, ESI",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2223955"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "EO MC Hailymandi",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2670294"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "D.P.R.O",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321479"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "A.R.C.S",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320384"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "D.F.S.C",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320379"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "District Fisheries Officer",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2385312"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "RO Pollution Board",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2332775"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Dy. Director Animal / ICDP",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2202115"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Divisional Employment Officer",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2322030"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Mining Officer",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2221772"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "G.M Body Building Roadways",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2215389"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "DM Hafed",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-4275258"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Chairman Zila Parishad",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2333161"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Income Tax Officer",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2450336"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Commissioner EPFO",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-4115674"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "LDM",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2381278"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Dy. Director (NCR) D.P.R.O",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321479"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Joint Director, DIC",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2334254"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Secretary, Sainik Board",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2320730"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Group Capt., Air Force Station",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2340441"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Dy. Director Wildlife",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2222272"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "District Child Welfare Officer",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2328288"
+        ],
+        "published_mobile": []
+      },
+      "email": "dswogrg@hry.nic.in",
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "DM Schedule Kalyan Nigam",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2321833"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Secretary, M.C Farrukhnagar",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2275387"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "Miscellaneous",
+      "designation": "Secretary, MC Pataudi",
+      "name": null,
+      "telephone": {
+        "office_landlines": [
+          "0124-2672869"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory. Not independently re-verified against a current official department page."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN PWD B&R, Division No. 1 Gurugram",
+      "name": "Sh. Charndeep Rana",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322424",
+          "8826648880"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN PWD B&R, Division No. 2 Gurugram",
+      "name": "Sh. Vishal Kumar",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322424",
+          "9812306111"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN Public Health, Gurugram",
+      "name": "Sh. Sudhir Ransiwal",
+      "telephone": {
+        "office_landlines": [
+          "0124-4238801",
+          "9711411813"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN Public Health, Sohna, Gurugram",
+      "name": "Sh. Prem Singh Singhal",
+      "telephone": {
+        "office_landlines": [
+          "0124-2362260",
+          "9560877965"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN Water MCG",
+      "name": "Sh. Gopal Kalawat",
+      "telephone": {
+        "office_landlines": [
+          "9821395213"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Nodal Officer of NHAI",
+      "name": "Sh. Dhruv Gupta",
+      "telephone": {
+        "office_landlines": [
+          "9971092279",
+          "9971465966"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DFSC, Gurugram",
+      "name": "Sh. Anil Kumar",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320379",
+          "8901488344"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "CMO, Gurugram",
+      "name": "Dr. Virender Yadav",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322412"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "SE, Public Health, Gurugram",
+      "name": "Sh. Sanjeev",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320988",
+          "9466155961"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "XEN, Public Health, Gurugram",
+      "name": "Sh. Sudhir Ransiwal",
+      "telephone": {
+        "office_landlines": [
+          "0124-4238801",
+          "9711411813"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Deputy Director Animal Husbandry",
+      "name": "Smt. Punita Gahlawat",
+      "telephone": {
+        "office_landlines": [
+          "0124-2202115",
+          "9810626465"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DRO, Gurugram",
+      "name": "Sh. Manbir Singh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322877",
+          "9416339855"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Police Control Room",
+      "name": "Insp. Incharge Control Room",
+      "telephone": {
+        "office_landlines": [
+          "0124-2223968",
+          "0124-2316100",
+          "0124-2320100",
+          "9999078911"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "BDPO, Gurugram",
+      "name": "Sh. Naresh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321203",
+          "9999940251"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "BDPO, Pataudi",
+      "name": "Sh. Pardeep Kumar",
+      "telephone": {
+        "office_landlines": [
+          "0124-2672867",
+          "9991188187"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "BDPO, Sohna",
+      "name": "Sh. Hitesh Kumar",
+      "telephone": {
+        "office_landlines": [
+          "0124-2362246",
+          "9650668848"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "BDPO, Farrukhnagar",
+      "name": "Sh. Naresh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2375269",
+          "9999940251"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DC, Gurugram",
+      "name": "Sh. Nishant Kumar Yadav, I.A.S",
+      "telephone": {
+        "office_landlines": [
+          "0124-2321144",
+          "9717181736"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "CTM, Gurugram",
+      "name": "Sh. Darshan Singh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320305",
+          "7988556267"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DRO, Gurugram",
+      "name": "Sh. Manbir Singh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322877",
+          "9416339855"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "CE (MC), Gurugram",
+      "name": "Sh. Radhey Shyam Sharma",
+      "telephone": {
+        "office_landlines": [
+          "0124-2237103",
+          "9711005719"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DEO, Gurugram",
+      "name": "Smt. Indu Bokan",
+      "telephone": {
+        "office_landlines": [
+          "0124-2322081",
+          "8800900458"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "CTM, Gurugram",
+      "name": "Sh. Darshan Yadav",
+      "telephone": {
+        "office_landlines": [
+          "0124-2320305",
+          "7988556267"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "DDPO, Gurugram",
+      "name": "Sh. Virendra Singh",
+      "telephone": {
+        "office_landlines": [
+          "0124-2328834"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Colonel",
+      "name": "Col. Kumar Parkshit",
+      "telephone": {
+        "office_landlines": [
+          "9650825450"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Commandant",
+      "name": "Sh. P.K. Srivasta",
+      "telephone": {
+        "office_landlines": [
+          "9968610014"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Deputy Commandant",
+      "name": "Sh. Ravi Kumar",
+      "telephone": {
+        "office_landlines": [
+          "9425293747"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Deputy Controller",
+      "name": "Smt. Shalini Lather",
+      "telephone": {
+        "office_landlines": [
+          "9679461059"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    },
+    {
+      "department": "District Disaster / Unit Control Room legacy listing",
+      "designation": "Chief Warden",
+      "name": "Mr. Mohit Sharma",
+      "telephone": {
+        "office_landlines": [
+          "9999032999"
+        ],
+        "published_mobile": []
+      },
+      "email": null,
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified",
+      "notes": "Retained from the earlier supplied directory; verify before use."
+    }
+  ],
+  "coverage_gaps": [
+    {
+      "department_or_scope": "Gurugram Metropolitan Development Authority (GMDA) division-wise officers",
+      "gap": "Official public portal contact found; a complete current division-wise officer directory was not confirmed from an official GMDA source in this research pass.",
+      "action": "Obtain latest GMDA directory/RTI or confirm through published GMDA contact."
+    },
+    {
+      "department_or_scope": "Haryana Town and Country Planning (TCP), Gurugram district",
+      "gap": "The full current Gurugram DTP/ATP/STP office telephone list was not verified from a primary official source.",
+      "action": "Cross-check with TCP Haryana official directory."
+    },
+    {
+      "department_or_scope": "All Haryana government line departments with district-level Gurugram offices",
+      "gap": "District site directory covers selected departments only; separate state department directories may hold additional district officers.",
+      "action": "Supplement with current Haryana Government department-wise directory and each department's Gurugram field-office directory."
+    },
+    {
+      "department_or_scope": "Police station and police unit contacts",
+      "gap": "Police station numbers are sourced from multiple public Haryana Police directory fragments; some entries may have changed and some police posts/stations may not appear in the fragments retrieved.",
+      "action": "Verify against the live Haryana Police Gurugram Commissionerate directory."
+    },
+    {
+      "department_or_scope": "Tehsil / sub-tehsil / registration offices",
+      "gap": "District directory publishes current officers for selected tehsils but does not publish direct telephone numbers for every tehsil.",
+      "action": "Confirm office numbers from the current Revenue Department / Jamabandi directory."
+    },
+    {
+      "department_or_scope": "MCG and HSVP complete staff rosters",
+      "gap": "The public sources expose selected leadership and department contacts, not necessarily every employee or every branch extension.",
+      "action": "Request current establishment/telephone directory from the respective authority."
+    }
+  ],
+  "emergency_and_citizen_helplines": [
+    {
+      "service": "Emergency Response",
+      "telephone": [
+        "112"
+      ],
+      "source_id": "haryana_police_commissionerate_directory",
+      "verification_status": "official"
+    },
+    {
+      "service": "Police Control Room (legacy district listing)",
+      "telephone": [
+        "0124-2316100"
+      ],
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified"
+    },
+    {
+      "service": "Ambulance",
+      "telephone": [
+        "108"
+      ],
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified"
+    },
+    {
+      "service": "Fire",
+      "telephone": [
+        "101"
+      ],
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified"
+    },
+    {
+      "service": "Women Helpline",
+      "telephone": [
+        "1091"
+      ],
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified"
+    },
+    {
+      "service": "Child Helpline",
+      "telephone": [
+        "1098"
+      ],
+      "source_id": "legacy_india_customer_care_directory",
+      "verification_status": "legacy_unverified"
+    },
+    {
+      "service": "MCG 24x7 Helpline",
+      "telephone": [
+        "18001801817"
+      ],
+      "source_id": "mcg_contact_directory",
+      "verification_status": "official"
+    },
+    {
+      "service": "DHBVN Electricity Complaints",
+      "telephone": [
+        "1912",
+        "1800-180-4334"
+      ],
+      "source_id": "dhbvn_gurugram_contact_pdf",
+      "verification_status": "official"
+    }
+  ]
+}
